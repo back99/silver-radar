@@ -29,7 +29,7 @@ def push_to_notion(items: list[dict]) -> int:
             "parent": {"database_id": database_id},
             "properties": {
                 "Name": {"title": [{"text": {"content": item["title"][:200]}}]},
-                "URL": {"url": item["link"]},
+                "URL": {"url": item["link"] if len(item["link"]) <= 2000 else None},
                 "Region": {"select": {"name": item["region"]}},
                 "Category": {"select": {"name": item.get("category", "기타")}},
                 "Relevance": {"number": item.get("relevance", 0)},
