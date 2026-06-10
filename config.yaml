@@ -54,3 +54,6 @@ claude:
 
 # Notion에 저장할 최소 관련도 점수 (1~10). 노이즈가 많으면 올리세요.
 min_relevance: 5
+
+# DB 아카이브에 저장할 최소 점수 (이 점수 이상만 Silver Radar DB에 누적)
+db_min_relevance: 8
