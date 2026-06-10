@@ -57,3 +57,8 @@ min_relevance: 5
 
 # DB 아카이브에 저장할 최소 점수 (이 점수 이상만 Silver Radar DB에 누적)
 db_min_relevance: 8
+
+# 주간 리포트 설정 (주 1회라 더 좋은 모델 사용 — 회당 수십 센트 수준)
+weekly:
+  model: "claude-sonnet-4-6"
+  max_tokens: 6000

@@ -4,6 +4,7 @@
 """
 from __future__ import annotations
 
+import json
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -45,6 +46,13 @@ def main() -> int:
     if not filtered:
         print("브리핑할 기사 없음. 종료.")
         return 0
+
+    # 주간 리포트용 일일 데이터 저장 (저장소에 커밋됨)
+    data_dir = Path(__file__).resolve().parent.parent / "data"
+    data_dir.mkdir(exist_ok=True)
+    date_file = data_dir / f"{datetime.now(KST).date().isoformat()}.json"
+    date_file.write_text(json.dumps(filtered, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"일일 데이터 저장: {date_file.name}")
 
     # ① 데일리 브리핑 페이지
     digest = build_digest(filtered, claude_cfg["model"], claude_cfg["max_tokens"])
