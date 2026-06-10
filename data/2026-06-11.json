@@ -6,11 +6,24 @@
   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpeFktVHBYWGU1RXZzUVJFdmhpdlJmTWdFZ24wOTlTUFUtSlltWE5tZzZmSWpFRXVyanZVLXJwdGNJLV9zdl80YWRfQjNSMnBUSVNONElWSHltR1ZOblVodDdCWkNYLS1WNUtpbg?oc=5",
   "source": "복지타임즈",
   "published": "2026-06-10T05:18:26+00:00",
-  "index": 10,
+  "index": 9,
   "relevance": 9,
   "category": "시장데이터",
-  "summary": "호주의 노인 돌봄이 서비스가 아닌 '권리'로 재편되는 구조적 변화를 분석했다. 선진국의 돌봄 정책/시장 전환 트렌드와 이것이 창출하는 새로운 비즈니스 기회를 시사한다.",
-  "korea_gap": "호주 사례로 한국과 직접 비교 어려우나 정책 방향 변화 시 한국 시장 기회 확대 가능성 있음"
+  "summary": "호주의 노인 돌봄 정책이 '서비스'에서 '권리' 기반으로 패러다임을 전환하고 있으며, 이는 개인맞춤형 선택권 확대와 시장 다양화를 의미한다. 선진국 돌봄 정책의 구조적 재편 사례로 한국 정책 및 시장 설계에 시사점을 제시한다.",
+  "korea_gap": "한국은 여전히 '공급자 중심 정책'이며 개인 선택권 기반 시장은 미성숙"
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "'2026 에이지테크 조직위' 출범…“대한민국 에이지테크 산업 글로벌 도약 이끈다” - 전자신문",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VV2xyVm16Q2NMTlFOOGx3VWFXMjBraWZCNURBanVWRVRyS0U3SVZKc0ZVYkVfS0pxTFFSYW0xbWlZU0VZN0FuZ0dBTFFDZw?oc=5",
+  "source": "전자신문",
+  "published": "2026-06-10T06:37:26+00:00",
+  "index": 7,
+  "relevance": 8,
+  "category": "기술",
+  "summary": "2026 에이지테크 조직위가 공식 출범하여 한국의 에이지테크 산업을 글로벌 수준으로 끌어올리겠다는 전략을 발표했다. 정부와 산업계가 결집한 에이지테크 생태계 조성 의지가 명시되어 있다.",
+  "korea_gap": "한국의 에이지테크 산업은 초기 단계이며 글로벌 기술 추적 및 현지화 기회 존재"
  },
  {
   "region": "korea",
@@ -19,11 +32,11 @@
   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44VzZncXhXODd3TzhXRWRHRkY3MGtRek9WeWd4NkFpZG1sZ0JoYk5qVGVta0ZQb2U3Sjgzd3h5OGhSVWhWVmtTQkNmbm1ZWDNj?oc=5",
   "source": "문화일보",
   "published": "2026-06-10T06:02:08+00:00",
-  "index": 9,
+  "index": 8,
   "relevance": 8,
   "category": "비즈니스모델",
-  "summary": "사조푸디스트가 티에프네트웍스, 두리와 협력해 노인 돌봄 플랫폼을 확산하는 협약을 체결했다. 대기업과 스타트업의 돌봄 플랫폼 생태계 구축 시도다.",
-  "korea_gap": "한국에서 플랫폼 모델이 초기 단계 진행 중 - 성숙도 낮음"
+  "summary": "사조푸디스트가 티에프네트웍스, 사단법인 두리와 협력하여 노인 돌봄 플랫폼을 확산하기로 했다. 대기업이 참여하는 플랫폼형 돌봄 서비스 확대는 시장 검증과 비즈니스 확장의 신호다.",
+  "korea_gap": "플랫폼형 돌봄 서비스는 초기 단계이며 대규모 확산 인프라 구축 기회 있음"
  },
  {
   "region": "korea",
@@ -32,11 +45,11 @@
   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sV05OUUszM2w5QkNuNDQzUEhQTnJUdEFfcTBnQkFBMk9UZXIzRk9TOFZhSWN2Y1k3c0IzOEY0UVNBZkpIbHNabEp3?oc=5",
   "source": "뉴스N연합",
   "published": "2026-06-10T00:09:21+00:00",
-  "index": 14,
+  "index": 12,
   "relevance": 8,
   "category": "투자/M&A",
-  "summary": "배우 류승룡이 시니어 케어 스타트업 케어닥의 브랜드 앰버서더로 나섰다. 돌봄 플랫폼 스타트업의 마케팅 강화 및 시장 진입 가속화를 나타낸다.",
-  "korea_gap": "한국 스타트업이 직접 진행 중인 돌봄 플랫폼 사업"
+  "summary": "배우 류승룡이 시니어 케어 스타트업 케어닥의 브랜드 앰버서더로 참여하여 광고 및 브랜드 확산을 주도하고 있다. 케어닥의 시장 확장 의지와 신뢰도 구축 전략을 보여주는 신호이다.",
+  "korea_gap": "한국 시니어케어 스타트업은 초기 펀딩 및 마케팅 단계이며 성장 잠재력 있음"
  },
  {
   "region": "korea",
@@ -45,11 +58,24 @@
   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VeVhSSVFLMFJyNHBnZWEzUGQ5WkJFLVYwTFhlRXdOejF2SVpnRDJyUkI4c0lqV2dNTXFtcWNfRUc0TEtxVk0waVdEVnZPandOdi1Cci1kLWlHbWNlZGRDMdIBeEFVX3lxTE9ETHNTV3dxeV95R1U3dnZrMmttSlA3a1h4dmJIV1hfNjZKcVRneGF4WXFQMmU3TU1wWVl5YWtfM091M1I2aW1HNTZvaXR2VE12T3FBbE1DSjRjRVQ0Yk9hdjMtaXN4LUxNZ2hjLWJtbVZUYTB0UHl3UQ?oc=5",
   "source": "뉴시스",
   "published": "2026-06-09T23:57:55+00:00",
-  "index": 15,
+  "index": 13,
   "relevance": 8,
   "category": "투자/M&A",
-  "summary": "사조푸디스트가 티에프네트웍스, 두리와 협력하여 실버케어 경쟁력을 강화한다. 기존 대기업의 시니어 산업 진출과 스타트업 생태계 형성을 보여준다.",
-  "korea_gap": "한국에서 초기 생태계 구축 단계 - 모델 검증 미완료"
+  "summary": "사조푸디스트가 티에프네트웍스, 두리와 전략 제휴를 통해 실버케어 경쟁력을 강화하고 있다. 대기업의 M&A 및 협력 전략이 시니어 산업의 성장 가능성을 증명한다.",
+  "korea_gap": "대기업의 시니어 산업 진출은 가속화 중이며 신생 스타트업의 차별화 전략 필요"
+ },
+ {
+  "region": "japan",
+  "query": "高齢者 ビジネス",
+  "title": "「両親のお宅、より安全に」…ケアダック、シニアカスタム住宅改善プロジェクトの稼働 - 벤처스퀘어",
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94TnBaU25rWG9YZTdBeXpETmtvMGIyTEx3QTJUNDExVDczaFhxYzd6QWhyUjczM04yam15eEZsdWpTRXhHXzJhT0tjbHR2Smh1X1J3?oc=5",
+  "source": "벤처스퀘어",
+  "published": "2026-06-10T11:46:26+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "ケアダック(Care Duck)이 시니어 맞춤형 주택 개선 서비스를 사업화하여 안전성과 거주 편의성을 높이는 프로젝트를 본격 운영 중이다. 일본의 고령화 주택 시장 수요에 대응한 B2C 서비스로, 개별 맞춤 컨설팅 기반의 주택 리모델링 모델이다.",
+  "korea_gap": "한국에서도 점포 기반 주택개선 서비스는 존재하나, 시니어 특화 맞춤형 컨설팅+시공 통합 프랜차이즈 모델은 아직 확인 필요."
  },
  {
   "region": "north_america",
@@ -61,8 +87,8 @@
   "index": 0,
   "relevance": 8,
   "category": "비즈니스모델",
-  "summary": "시니어 리빙 운영사들이 기술 도입과 비용 관리를 통해 마진율 40% 달성을 목표로 하고 있으며, 이는 운영 효율화를 통한 수익성 개선의 구체적 사례를 보여준다. 북미 시니어 하우징 섹터에서 기술 활용과 비용 최적화가 핵심 경쟁 전략으로 확산되고 있다.",
-  "korea_gap": "한국 요양시설·실버타운 대다수가 여전히 저마진 구조이며, 기술 기반 운영 효율화 모델 도입 미흡한 상태."
+  "summary": "시니어 리빙 운영사들이 기술 도입으로 운영비 절감과 수익성 개선에 성공하고 있으며, 특히 자동화·데이터 분석을 통한 마진율 40% 달성 사례가 확산 중이다. North America 시니어 주거 산업에서 '저비용 고효율 운영 모델'이 새로운 경쟁 기준이 되고 있다.",
+  "korea_gap": "한국 요양시설/실버주택은 대부분 수작업 중심 운영으로 기술 기반 효율화 사례가 매우 드문 상태."
  },
  {
   "region": "korea",
@@ -71,11 +97,11 @@
   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WX0VkTklRcElpVVdMaWd2UzYtT1d3RE95UEVDaElHendOX2JVM3JhRnRMUFhRcWVmYnFxMzlzS2s2TGxkeWkxWE9nZTliQ1F5TXlQalhIMnFBNkVLdnpqcy1WLWQ?oc=5",
   "source": "매일일보",
   "published": "2026-06-10T09:01:01+00:00",
-  "index": 5,
+  "index": 6,
   "relevance": 7,
   "category": "비즈니스모델",
-  "summary": "보성군이 '병원동행 매니저' 서비스로 여성 일자리 창출과 노인 돌봄을 동시에 해결하는 모델을 추진하고 있다. 환자 수반 서비스 형태의 신규 돌봄 직종 개발 사례다.",
-  "korea_gap": "한국에서 지역사업 수준으로 파일럿 중 - 플랫폼화/상용화 수준 낮음"
+  "summary": "보성군이 '병원동행 매니저' 여성 일자리 사업을 시행하여 돌봄 서비스와 고용 창출을 동시에 추진하고 있다. 거동 불편한 노인의 병원 방문 동행 서비스로 새로운 니즈 충족 모델을 보여준다.",
+  "korea_gap": "병원동행 서비스는 개별 간병 수준이며, 체계적인 플랫폼 기반 매칭 모델은 미개발"
  },
  {
   "region": "korea",
@@ -84,11 +110,11 @@
   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WWnE5UUNQNXpCZlFlaWpMWjRqMy1zdDFadFgyb3JNTWFweW5vOHJjaVlaMDBfMTdjdnVhMk9TZ3FCamtlU29qTUFLUGE?oc=5",
   "source": "브랜드경제신문",
   "published": "2026-06-09T22:09:02+00:00",
-  "index": 18,
+  "index": 16,
   "relevance": 7,
   "category": "시장데이터",
-  "summary": "유럽 프리시드 스타트업 투자가 AI 기술로 인해 경쟁이 심화되고 있다. 한국 창업자들이 주목해야 할 글로벌 에이지테크 투자 트렌드를 분석한다.",
-  "korea_gap": "글로벌 시장 동향이나 한국과의 구체적 비교 필요 - 일반적 인사이트"
+  "summary": "유럽의 프리시드 스타트업이 AI 가속화로 투자 경쟁이 심화되고 있으며, 한국 창업자들도 글로벌 트렌드 추적이 필요하다는 조언이 제시되고 있다. 에이지테크 포함 AI 기반 신규 비즈니스 모델의 확산 신호다.",
+  "korea_gap": "한국 시니어 AI 기술 스타트업은 글로벌 수준 대비 후발이며 수입 및 현지화 기회 존재"
  },
  {
   "region": "korea",
@@ -97,11 +123,11 @@
   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0MzU5NDlmZ2YtNDcwbEFBY1NLcW0tQURySUJZdWU3a0Nxc2tFX0NaREhnbW5QWUJlV21fR29ET0pUM2lBNDJ0emZyX3ZURDR6bjhMQVlwdTR5QQ?oc=5",
   "source": "농민신문",
   "published": "2026-06-10T09:34:00+00:00",
-  "index": 4,
+  "index": 5,
   "relevance": 6,
   "category": "비즈니스모델",
-  "summary": "농촌 지역에서 노인일자리를 통한 '노노케어'(노인 간 돌봄) 통합돌봄 모델을 시도하고 있으나 한계를 드러내고 있다. 저비용 돌봄 인력 공급 모델의 실제 작동 문제를 지적한다.",
-  "korea_gap": "한국에서 시도 중이나 정책적 문제점 지적 - 완성도 낮은 모델"
+  "summary": "농촌 지역 노인일자리를 활용한 통합돌봄 모델이 확산되고 있으나 '노노케어(노인이 노인을 돌봄)'의 구조적 한계가 지적되고 있다. 시골 지역 인력난 해결과 서비스 공백 메우기 사이의 딜레마가 노출되는 상황이다.",
+  "korea_gap": "농촌 노인일자리 통합돌봄은 한국에서 시범 추진 중이나 지속성 모델 미확립"
  },
  {
   "region": "korea",
@@ -110,24 +136,11 @@
   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YS3E3QXkzbDgzc0hQYzhsRHF3c09QSG90R1hhNC02ZkgtcmR5QVdMM2Vacl9oNGJ1bnJ1Nm1vTzRRNTREdEVRck5UUDA2RFYwSDVJal9Ja25lUGZ4NXBwV3B3?oc=5",
   "source": "매일신문",
   "published": "2026-06-10T04:03:40+00:00",
-  "index": 12,
-  "relevance": 6,
-  "category": "비즈니스모델",
-  "summary": "대구 군위군이 거동 불편한 노인들을 위해 찾아가는 이미용서비스를 시작했다. 지역사업 수준의 재가 서비스 모델 시도이다.",
-  "korea_gap": "한국에서 소규모 지자체 사업으로 존재 - 플랫폼화 미흡"
- },
- {
-  "region": "korea",
-  "query": "에이지테크",
-  "title": "'2026 에이지테크 조직위' 출범…“대한민국 에이지테크 산업 글로벌 도약 이끈다” - 전자신문",
-  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VV2xyVm16Q2NMTlFOOGx3VWFXMjBraWZCNURBanVWRVRyS0U3SVZKc0ZVYkVfS0pxTFFSYW0xbWlZU0VZN0FuZ0dBTFFDZw?oc=5",
-  "source": "전자신문",
-  "published": "2026-06-10T06:37:26+00:00",
-  "index": 8,
+  "index": 10,
   "relevance": 5,
-  "category": "시장데이터",
-  "summary": "2026 에이지테크 조직위 출범으로 한국 에이지테크 산업의 글로벌 도약을 표방하고 있다. 산업 육성의 의지와 시장 성장 전망을 나타낸다.",
-  "korea_gap": "한국에서 공식적으로 에이지테크 산업 집중 육성 중"
+  "category": "정책/규제",
+  "summary": "대구 군위군이 거동 불편한 돌봄 노인들에게 찾아가는 이미용 서비스를 제공 중이다. 공공 지역 사회 사업의 일환으로 기존 돌봄 서비스의 범위 확장 수준이다.",
+  "korea_gap": "방문 이미용 서비스는 개별 형태이며 시스템화된 비즈니스 모델로의 발전 미흡"
  },
  {
   "region": "korea",
@@ -136,10 +149,10 @@
   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fLVZDM25UMWJKa1dwNnhJTjNZZ2ltMmZGNTZJclJBMHdxNm5FLVZJSVEtU0RwMnIzTGNOWUZ1WUg0dkNVZEJ2V2xwbC1XZ1dDbVpJbFBQNFJuY3VQS2pLVGV5U25rbmtHNlE?oc=5",
   "source": "여수넷통뉴스",
   "published": "2026-06-09T23:08:35+00:00",
-  "index": 17,
+  "index": 15,
   "relevance": 5,
-  "category": "비즈니스모델",
-  "summary": "쌍봉종합사회복지관이 어르신 일자리 연계형 취약돌봄서비스 사업을 시작해 호응을 얻고 있다. 노인 일자리와 돌봄 수요 연결 모델의 초기 성공 사례다.",
-  "korea_gap": "한국에서 복지관 단위 파일럿 - 스케일 미흡"
+  "category": "정책/규제",
+  "summary": "쌍봉종합사회복지관이 어르신 일자리와 취약돌봄서비스를 연계한 사업이 큰 호응을 얻고 있다. 지역 사회복지관의 노인 고용 및 돌봄 통합 사례로 공공 사회서비스 범위 내 운영이다.",
+  "korea_gap": "사회복지관 중심의 노인 일자리 돌봄 연계는 이미 확산 중이나 수익성 모델 미약"
  }
 ]
