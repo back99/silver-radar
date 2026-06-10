@@ -1,0 +1,56 @@
+# Silver Radar 설정
+# 지역별 Google News RSS 검색 키워드. 자유롭게 추가/수정하세요.
+
+regions:
+  korea:
+    hl: "ko"
+    gl: "KR"
+    ceid: "KR:ko"
+    queries:
+      - "실버산업"
+      - "시니어 스타트업"
+      - "노인 돌봄 서비스"
+      - "에이지테크"
+      - "고령화 비즈니스"
+
+  japan:
+    hl: "ja"
+    gl: "JP"
+    ceid: "JP:ja"
+    queries:
+      - "高齢者 ビジネス"
+      - "シニア スタートアップ"
+      - "介護 テック"
+      - "エイジテック"
+
+  north_america:
+    hl: "en-US"
+    gl: "US"
+    ceid: "US:en"
+    queries:
+      - "agetech startup"
+      - "senior care technology"
+      - "longevity economy"
+      - "family caregiver app"
+
+  europe:
+    hl: "en-GB"
+    gl: "GB"
+    ceid: "GB:en"
+    queries:
+      - "agetech Europe"
+      - "elderly care startup funding"
+
+# 수집 범위: 최근 N시간 이내 기사만
+lookback_hours: 26
+
+# 지역별로 Claude에 보낼 최대 기사 수 (오래된 것부터 잘림)
+max_articles_per_region: 25
+
+# Claude 설정 (일일 요약엔 Haiku가 비용 효율적. 더 깊은 분석 원하면 claude-sonnet-4-6)
+claude:
+  model: "claude-haiku-4-5"
+  max_tokens: 4000
+
+# Notion에 저장할 최소 관련도 점수 (1~10). 노이즈가 많으면 올리세요.
+min_relevance: 5
