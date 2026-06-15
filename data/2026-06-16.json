@@ -1,0 +1,28 @@
+[
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "SIM内蔵でコンセントにつなぐだけ　高齢者見守り対応の人感センサー発売 - ITmedia Mobile - ITmedia",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CSWRIRXZMU09hbFBLaHVsXy1LMTBvRHl1aTEwd1R5bFpXbjhZZFlSVHVaZGFEX0ZsWXBxWW9ES2RsVTBfWGZlWlRQeVFudHhTX0tpNzd2Nkk1blhRS0h4Sm9XUnhKSnBX0gFoQVVfeXFMT0JJZEhFdkxTT2FsUEtodWxfLUsxMG9EeXVpMTB3VHlsWlduOFlkWVJUdVpkYURfRmxZcHFZb0RLZGxVMF9YZmVaVFB5UW50eFNfS2k3N3Y2STVuWFFLSHhKb1dSeEpKcFc?oc=5",
+  "source": "ITmedia",
+  "published": "2026-06-15T02:38:00+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "SIM 카드가 내장되어 콘센트에 연결하기만 하면 작동하는 고령자 보안 센서가 출시되었다. 별도 설치 비용 없이 즉시 활용 가능한 '플러그앤플레이' 방식의 홈 모니터링 IoT 기기로, 고령자 가정의 진입장벽을 낮춘 새로운 사업 모델이다.",
+  "korea_gap": "한국에서 유사 제품(낙상감지, 움직임 감지 센서)은 있으나 '완전 내장형 SIM + 초간단 설치'의 통합 솔루션은 아직 주류가 아니며 확인 필요."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "부산테크노파크, ‘에이지테크 종합지원센터 소통 간담회’ 개최 - 한국원자력신문",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzaUktajZlV3VtdGlPdlh4cHA4ZWotdVpIaGluT1JobEQtazlYakhBQWJvS1Z4QVBwQ0oyWHg1enlsMTBsYXJiaTNoRjE5SzNRYWpBbG1jRmNieG5jVVhBSzJfblg2WG_SAWtBVV95cUxQZW9wdUNGRDF4X0VkRGJwRDVOU1l5NTQ3eTFCRWh1Z1V6UXVfUlRyQ2JEVlpOdGNDOXNtVmpGMlh3c1Y0X09ULU5aNHVBcUtYcVc3RW52YTR4Y3FPOXpLNmtlSUdzOUdwRkNubw?oc=5",
+  "source": "한국원자력신문",
+  "published": "2026-06-15T06:01:43+00:00",
+  "index": 0,
+  "relevance": 5,
+  "category": "정책/규제",
+  "summary": "부산테크노파크가 에이지테크 종합지원센터 운영 현황을 공유하고 산학연 협력 방안을 논의하는 간담회를 개최했다. 에이지테크 생태계 구축을 위한 지원 체계 강화를 시도하는 움직임이다.",
+  "korea_gap": "한국에서도 에이지테크 지원센터 등 정책적 인프라가 구축 중이나, 실제 글로벌 검증 모델의 도입 수준은 미흡한 상태"
+ }
+]
