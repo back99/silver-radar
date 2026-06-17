@@ -1,0 +1,41 @@
+[
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "ウェルヴィルの対話AI「LIFE TALK ENGINE」がセカンドライフパートナーズの新サービス『みまもり365』に採用 - ニコニコニュース",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5ZTJXWXd3aFcxX0ZGLU42WXFJNEIwWlhFb3NoZm8ySUtTd2lKSlVqeEM0cEJQQjQ3TDhfQkdHOFJ5X0RDeWNMRGlZUnc3Q3N5M0Y3SkwwV0VMY3FHQzBtS2VydThRdjFPSFFBMC1vdVRuM001VVJUcWhwOA?oc=5",
+  "source": "ニコニコニュース",
+  "published": "2026-06-17T12:30:45+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "웰빌의 대화형 AI '라이프톡 엔진'이 세컨드라이프파트너즈의 시니어 보호 서비스 '미마모리365'에 채택되어 AI 기반 원격 돌봄 모니터링 시장이 본격화하고 있다. 일본에서 검증된 AI 챗봇을 활용한 고령자 안전 관리 비즈니스 모델이 실용화 단계에 진입했다.",
+  "korea_gap": "한국에서는 아직 고령자 전문 대화형 AI 돌봄 서비스가 상용화되지 않은 것으로 보임. 확인 필요."
+ },
+ {
+  "region": "north_america",
+  "query": "caregiver app launch",
+  "title": "Hello Pearl Launches Across Canada to Keep Older Adults Connected and Supported - GlobeNewswire",
+  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM1J5dnBEeXkwY3lTVk5paEszSHIxbXFJTmxqY0RYV2tjWkNvVHVvdnBpMHR6VXAwWjMyV0xHa2daelM3VkVoSlpoM25FT25ZSTNkUXJtNGJsNGtnNWhFak1Wa3BOakJNZS1DaGFKUEdrQnVKWDZ4RkRSQnZhUHV3dmR2UmNOTHdCVHBlMUZVejIzU3hlNkJOY1NrYzJDNXhoQTViUnhsd0NsT25YSk1rTVVibFJQRFdQQUx3VVNwbzFzOUhNczR1MDJUOExnTzZhSUFZX2VDR2hVcldrX3dlbUNLMGstZw?oc=5",
+  "source": "GlobeNewswire",
+  "published": "2026-06-17T14:11:00+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "Hello Pearl은 캐나다 전역으로 확대하며 고령층의 사회적 고립 해결을 위한 커뮤니티 연결 플랫폼을 제공한다. 기술과 인간 중심의 지원을 결합한 하이브리드 케어 모델로 북미에서 검증된 새로운 실버테크 사업 구조다.",
+  "korea_gap": "한국에는 유사한 통합형 사회적 고립 해결 플랫폼이 미흡하며, 주로 단편적 돌봄 앱이나 복지 기관 중심 구조가 주류인 상태."
+ },
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "ウェルヴィルの対話AI「LIFE TALK ENGINE」が『みまもり365』に導入される意義 - ニュースメディアVOIX",
+  "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kNWdDMjdQbXRnd2VFeWRnQlZrZEt4VlFuR3Y0NGFqbVVXNHNDc1B4OTZjYUFDUVBsOXRjbkxNMXF2RjlkTGtR?oc=5",
+  "source": "ニュースメディアVOIX",
+  "published": "2026-06-17T04:49:03+00:00",
+  "index": 1,
+  "relevance": 7,
+  "category": "기술",
+  "summary": "라이프톡 엔진이 미마모리365 서비스에 도입되는 의의를 분석하는 기사로, 일본 시니어 시장에서 AI 챗봇 기반 돌봄 서비스의 가치와 적용 가능성을 검토하고 있다. 고령자와의 자연스러운 대화를 통한 심리적 지지와 안전 모니터링의 통합 모델을 제시한다.",
+  "korea_gap": "한국 시니어 시장에서 AI 챗봇 기반 감정 케어와 모니터링의 결합 모델은 초기 단계이며, 일본 사례를 참고한 사업화 기회가 존재할 수 있음."
+ }
+]
