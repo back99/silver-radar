@@ -1,0 +1,41 @@
+[
+ {
+  "region": "korea",
+  "query": "AI 안부전화 돌봄",
+  "title": "AI 안부전화 운영 위식스, 혁신성장 벤처기업 인증 받아 - IT조선",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VVjdMdWREQmNxa1ZEdHV3RjZUZ3EwUG9PLTBqQU0zQzk1U2t0RUdJaUFlM0ZSbnNHc0NyeUV6LXdaNm9KTFVWMlF6cjFJVktGT3JucVZ3MmlqVHFVME90QUdIZmtBbzJsT3BBbHMxdWzSAXRBVV95cUxPWnRpNUhGellwSU92OGotbWxDZTh3cW5RT2ZuZ0NlX0J1RDFCdmdJQ0x3SWFLMGVlM0FYNDNaNFhYTXR4TS1kQ19MeFBCZXVPVk9rS1dYNTdiMlJxYXVIdlBJeDUxVW11Rk9KdE83X1JwemhiZg?oc=5",
+  "source": "IT조선",
+  "published": "2026-06-23T04:30:47+00:00",
+  "index": 1,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "AI 안부전화 서비스를 운영하는 위식스가 혁신성장 벤처기업 인증을 획득했으며, 시니어 고독감 해소를 위한 자동화 통신 모델이 공식 인정을 받았다. 이는 한국에서 AI 기반 시니어 케어 비즈니스의 투자 신뢰도 상승을 의미한다.",
+  "korea_gap": "한국에서 AI 안부전화 서비스가 등장 중이나, 북미·일본의 유사 모델(예: 로봇 기반 정서 지원)과 비교하면 아직 고도화 기회 존재"
+ },
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "【介護の悩み】「一人暮らしの親を見守りながら自分の時間を確保する方法は？」専門家「遠くから見守れるサービスを活用。気を付けたいことは…」 (婦人公論.jp) - Yahoo!ニュース",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSll3a3hGVjRvWGNReTZRcG1QcmpoX05hWEdheGFIWnR1emZ5V0FZOWRfeHMtejhwVmFndEFMREFVbDdBX1ZsS1JnOWVSWjhBNEdQT2dCRDJleGNhdkFHQ1dSRk5RRFlvVFlBa0R1WlZWMnhrSjVUZGpxZkhad0VHaXNZUmF1b3VJVU1vX25B?oc=5",
+  "source": "Yahoo!ニュース",
+  "published": "2026-06-23T04:52:25+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "일본에서 증가하는 원거리 부모 돌봄 수요층을 타겟으로 '원격 모니터링 서비스'의 필요성과 실제 활용 방안을 조명하고 있으며, 자녀의 독립성 유지와 부모 안전 확보의 균형을 맞추는 새로운 서비스 개념을 제시하고 있다.",
+  "korea_gap": "한국에서도 1인 가구 시니어와 워킹 자녀의 원거리 돌봄 수요는 높으나, 통합적인 원격 모니터링 서비스 모델은 초기 단계 - 일본의 사례 비즈니스 프로세스와 전문가 정보 제공 방식을 벤치마킹할 가치 있음."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "성남시, AI로 고독사 막고 주차 편의 높인다…에이지테크 실증 거점 도약 - 비욘드포스트",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uLUtSWU1aekVJOUlWS3BtX1dvRTh6dHRUOEoxTzR3dkhJdDhGNjhocmZpS0gxS0d5VldTY1U3VTF2YWNfa0I1ZWMxM1F4Ul9XYmpSZ0V1MWNjYVB2OHJyRlV0ZEhkUjkyLUdSc2JPTFFYdHJzdWFydEdsNnM?oc=5",
+  "source": "비욘드포스트",
+  "published": "2026-06-23T22:43:00+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "정책/규제",
+  "summary": "성남시가 AI 기반 고독사 예방 및 스마트 주차 솔루션을 에이지테크 실증 거점으로 추진 중이다. 지자체 차원의 시니어 AI 기술 도입 사례로, 민간 비즈니스 모델보다 정책 시범 성격이 강하다.",
+  "korea_gap": "AI 안부 전화는 한국에서도 시작 단계지만, 성남시 같은 지자체 실증 거점은 정책 지원 모델로 민간 창업과는 별개 영역"
+ }
+]
