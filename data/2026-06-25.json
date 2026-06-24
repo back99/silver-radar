@@ -1,0 +1,67 @@
+[
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "ビーマップ、CATV網で高齢者見守りサービスを全国展開 - ニュースメディアVOIX",
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tNjVObkpoOFF0N0FoaEYxX3loR2NGYWtmTXNMM0g0RGQ5TUtibV93TEk0b3k1c2lHRC1VbjdkRDJNZ0pkdkhZYThDd2dEQ21RQzBz?oc=5",
+  "source": "ニュースメディアVOIX",
+  "published": "2026-06-24T09:38:13+00:00",
+  "index": 2,
+  "relevance": 9,
+  "category": "비즈니스모델",
+  "summary": "비맵이 CATV 네트워크 기반 고령자 원격 모니터링 서비스를 일본 전역에 확대 배포 중이며, 기존 통신 인프라 활용으로 설치 비용 및 시장 진입 장벽을 대폭 낮춘 성숙한 모델. IoT 센서-CATV-클라우드 통합 플랫폼으로 높은 확장성 입증.",
+  "korea_gap": "한국은 CATV 기반 고령자 모니터링 서비스가 거의 없으며, 주로 LTE/5G 독립 센서 방식이 주류로 CATV 인프라 활용 모델의 국내 도입 가능성이 높음."
+ },
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "見守りサービス「おうちモニタ」、CATVを通じて販路拡大へ - ニコニコニュース",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tVk9RakJweE9JbHJwc25sQWJmNlR3eko2c0N6RWVuT3FmakNpaFhDLWxnWGlxVUstX1VNb0h2Rk8xaGxocDJNTUUtakNNSnVHdE9Eck1GbkVpVlhyaVRiV091VFU1cmlKMlo5Z3RvTy1wSHpkRUE?oc=5",
+  "source": "ニコニコニュース",
+  "published": "2026-06-24T15:45:21+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "CATV 네트워크를 활용한 고령자 원격 모니터링 서비스 '우치모니타'가 기존 케이블TV 인프라를 통해 전국 유통 채널을 확대 중. IoT 센서 기반 실시간 안부 확인 및 위험 감지 모델을 기존 통신 인프라와 결합하는 새로운 B2B2C 확장 전략.",
+  "korea_gap": "한국의 CATV 기반 고령자 모니터링 서비스는 제한적이며, 해당 비즈니스 모델의 국내 도입 사례가 드문 상태."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "성남시, ‘에이즈테크 거점’ 시동…AI로 어르신 돌보고 주차 관리 - 브릿지경제",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JRG55VEdBMVlKZm1YS05LNDZ5azdNUmdSdTV5aUxweDdpNm5tYnFiTEhmX2JlaFVvRDlnNGVwQ1drU0xCSVE3V1FENDVHd002LUs3c1NzcmVMQQ?oc=5",
+  "source": "브릿지경제",
+  "published": "2026-06-24T00:23:00+00:00",
+  "index": 1,
+  "relevance": 6,
+  "category": "기술",
+  "summary": "성남시가 'AI테크 거점' 구축으로 AI를 활용한 어르신 돌봄 및 스마트 주차 관리를 통합 추진 중이다. 지자체 주도의 스마트시티 AI 활용 사례로, 기술 검증과 공공재정 투입의 신호가 될 수 있다.",
+  "korea_gap": "도시형 스마트 돌봄·관리 플랫폼은 한국에서도 추진 중이나, 통합형 민간 B2B/B2C 비즈니스 모델로 성장한 사례는 제한적."
+ },
+ {
+  "region": "korea",
+  "query": "AI 안부전화 돌봄",
+  "title": "롯데복지재단, 취약노인 AI 안부확인 사업에 5천만원 후원 - 이로운넷",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yT2tDUXdOX2xCRXBWMTFMVkROUVdFWG9PdllJZUIwQjhlYl9URnBIUGZLU0h4MUtiNlA0dVgtYXotYmdfQ3ZVSFZUNzVnUWpZbGh1dDlhemtSZy1tTzFRS21lenhlQQ?oc=5",
+  "source": "이로운넷",
+  "published": "2026-06-24T02:05:11+00:00",
+  "index": 0,
+  "relevance": 5,
+  "category": "정책/규제",
+  "summary": "롯데복지재단이 취약노인 대상 AI 안부확인 사업에 5천만원을 후원하며 공익적 돌봄 기술 확대에 나섰다. 기존 공식 복지 인프라 내에서의 기술 도입 사례로, 새로운 비즈니스 모델보다는 사회공헌 사업의 성격이 강하다.",
+  "korea_gap": "AI 기반 노인 안부확인 서비스는 이미 한국의 공공·민간 영역에 다수 존재하는 성숙 단계의 시장."
+ },
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "株式会社ottaと市内全小学校で見守りサービス導入に向けた協定を締結 - city.kawachinagano.lg.jp",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmcXFyMXBzc1pNNExfZURZSUszY3FTTE1lbGdKQVN2eUtCSWZFdzQtNzFEbjZYZ3RoX3RYMG9EMkd0NkhmV29QOFhxVWdkTldzZmlBM3dJLXZZN05yTTJTY0hlSVNZQlVrTnI0?oc=5",
+  "source": "city.kawachinagano.lg.jp",
+  "published": "2026-06-24T10:43:32+00:00",
+  "index": 1,
+  "relevance": 5,
+  "category": "정책/규제",
+  "summary": "일본 카와치나가노시가 아동 안전 모니터링 서비스 제공사와 협정을 체결하여 전 초등학교 도입 추진. 정부 차원의 공공 서비스 확대로 기술 신뢰성 검증 및 시장 수요 확보.",
+  "korea_gap": "한국의 학교 기반 아동 모니터링은 구글 클래스룸 등 학습 관리 중심이며, 일본식 지자체 차원의 안전 모니터링 시스템 도입은 드문 상태."
+ }
+]
