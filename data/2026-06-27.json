@@ -1,0 +1,28 @@
+[
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "ニュース AI見守りサービス「Care-Call.AI」で通話の録音・文字起こしを無制限提供 - 株式会社インプレス",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4VWpHRHBvWUV6TXN5bS1INHVJbnN4TDRoUVBKNXZrV0VGYlhkNmdCQjFwNWI4bXZBMHhRNk1RQUF0YUFILWw2akRVazZFTDdhcDRJMUpPUlM4dTAxZEpua1hmbw?oc=5",
+  "source": "株式会社インプレス",
+  "published": "2026-06-26T07:41:23+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "AI 기반 음성 통화 모니터링 서비스 'Care-Call.AI'가 통화 녹음 및 자동 문자화를 무제한 제공하며 시니어 안부 확인 시장에 진입. 낙상·응급상황 감지 및 정서적 고독감 완화를 위한 능동적 모니터링 기술로 고령층 케어의 새로운 접근 방식 제시.",
+  "korea_gap": "한국에는 유사한 AI 음성 기반 시니어 케어 서비스가 제한적이며, 특히 무제한 녹음·실시간 문자화 기능을 통합한 상품은 발견 어려움 - 진입 가능성 높음."
+ },
+ {
+  "region": "north_america",
+  "query": "aging in place technology",
+  "title": "How technology is helping seniors age in place - NewsAdvance.com",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObGJrcktXVjUtd1FUbGZ0ZEhFZ1VhZk1QQW1lbEVVSXRYR2hMUUc0NHdKdXgySVp6SUw3TUszWUh1bHVfNEpMY1FCY1RWbGRNcmlQZDM4SjBMc3daNS1PTUxZUzBKcU9wZ0k2RnFidUdoWERrZ3Iyd19vdG5BX0doUWZFbDlqdDlIU2JsREpLaw?oc=5",
+  "source": "NewsAdvance.com",
+  "published": "2026-06-26T00:46:00+00:00",
+  "index": 0,
+  "relevance": 7,
+  "category": "기술",
+  "summary": "기술을 통해 시니어가 자신의 집에서 나이를 먹을 수 있도록 지원하는 솔루션들이 확대되고 있다. 원격 모니터링, 스마트홈, AI 기반 건강관리 등이 독립적 생활을 가능하게 하는 핵심 기술로 부상 중이다.",
+  "korea_gap": "한국도 스마트홈·IoT 기술이 있으나 시니어 특화 'aging in place' 통합 플랫폼은 아직 미성숙 단계"
+ }
+]
