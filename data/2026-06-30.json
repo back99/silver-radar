@@ -1,0 +1,28 @@
+[
+ {
+  "region": "japan",
+  "query": "シニア向け 新サービス",
+  "title": "AI見守り「Care-Call.AI」、月500円のLINE『ケアコール・ミニ』とAIと話す電話番組『ケアコール・トーク』を提供開始 - PR TIMES",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZM2U2Wlc1VElzdlB6b3VuRmRwUlB6MkpnblV3RnRhTjktbXpMbjV0RFVjMGMzenZDQmh6SWktY041anQ3NThaUU01ejN0aURqYms1NGpqblQwcnc5MWx3RTNFS21Vc0c5Snc?oc=5",
+  "source": "PR TIMES",
+  "published": "2026-06-29T03:00:02+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "일본의 Care-Call.AI는 AI 기반 전화 상담 서비스를 월 500엔의 저가 구독 모델(LINE 연동)과 AI와 대화하는 라디오 프로그램 형태로 제공하고 있다. 시니어의 외로움 해소 및 정서적 돌봄을 초저가 디지털 서비스로 해결하는 새로운 비즈니스 모델을 시장에 검증 중이다.",
+  "korea_gap": "국내에는 유사한 AI 전화 상담 구독 서비스가 아직 체계화되지 않았으며, 특히 시니어 특화 초저가 정서 돌봄 BM은 미분화 상태."
+ },
+ {
+  "region": "north_america",
+  "query": "aging in place technology",
+  "title": "Tombot Raises $7M to Scale AI Robotic Companion for Aging-in-Place Market - citybiz",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVWZqVnB4VzlBUVVLU3NobnNiajRoRFZucUljaG5fcGF0TVdIYmRaeU9YYWNFNzlFM0NCekl2Qm1qZF9WcWdUU1BUeXZ3dkhEOXFQTUExMVB3Y25jZVRYSUQ1cWZiQ2JtWU1Qa1UyTHdQQkpORXE1OVJ5dU9tb0ZmSWdGaU4wMGhiMC1zQUVRNWRXMzMxaVh3T2FYNnBiSUNwQ3V5azhHR0JsemVZOTdLdA?oc=5",
+  "source": "citybiz",
+  "published": "2026-06-29T13:30:16+00:00",
+  "index": 1,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "Tombot이 AI 로봇 동반자 기술로 700만 달러를 조달하며 고령자 지역사회 거주(Aging-in-Place) 시장에 집중하고 있다. 외로움 완화와 독립적 생활 지원을 목표로 하는 AI 로봇 컴패니언은 북미에서 검증되는 새로운 시니어 케어 모델이다.",
+  "korea_gap": "한국에 유사한 독립형 AI 로봇 동반자 기반의 에이징인플레이스 사업 모델은 발견되지 않음"
+ }
+]
