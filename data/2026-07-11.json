@@ -1,0 +1,54 @@
+[
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "高齢者が住宅を借りるには 見守りサービスで大家の懸念解消 遺品の処分費用は保険で【超高齢社会2026】 - 静岡新聞DIGITAL",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sc19Qbkl1TEgyVTROeUViWHRyQV95MVBidkdtZHhSWG5qQVVRYnR6VnpadmRlLW9hLTFMRnVSTlNPd21TV0dOV1BvM2ZLZw?oc=5",
+  "source": "静岡新聞DIGITAL",
+  "published": "2026-07-09T21:00:00+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "고령자의 주택 임차 시 대가의 우려를 해소하기 위해 견守りサービス(안심 모니터링 서비스)와 유품 처리 비용 보험을 결합한 통합 솔루션을 제시하고 있다. 주택 접근성 문제를 해결하면서 동시에 대가와 세입자 양쪽의 위험을 완화하는 새로운 비즈니스 모델이다.",
+  "korea_gap": "한국에서는 고령층 임차 보증금 보험은 있으나, 안심 모니터링과 유품 처리 보험을 패키징한 통합 솔루션은 미흡한 상태로 보임."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "부산테크노파크, '2026 부산 에이지테크 Connect Day' 개최…실증·사업화 지원 강화 - 네이트",
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzSHZZTGxzYk16TU1pYWtCcWpWVG5yVnpsdmI2WjUzdXc0dEF5bEphd0d2RUVJdVlMWnI4NFNHR0pSX1FLWnpLZXc3QWRKR2Q0RU1F?oc=5",
+  "source": "네이트",
+  "published": "2026-07-10T05:23:00+00:00",
+  "index": 0,
+  "relevance": 5,
+  "category": "정책/규제",
+  "summary": "부산테크노파크가 2026년 에이지테크 Connect Day를 개최하여 고령기술 기업의 실증·사업화를 지원한다. 정부 주도의 에이지테크 생태계 조성 및 투자 연계 행사로, 기술 기반 시니어 솔루션의 사업화 기회를 제공한다.",
+  "korea_gap": "한국에서도 정부 차원의 에이지테크 생태계 구축이 진행 중이나, 실제 비즈니스 모델 검증 및 해외 모델 도입 현황은 확인 필요"
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "부산테크노파크, '2026 부산 에이지테크 커넥트 데이' 개최 - 전자신문",
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sbVpSUW9rZTNZd1k2eERxZHhCU1Vaa1NaemxDTEVNY3IwLWt3cGZmTjh4VVZBc0trWnhJRVVlRHRRTXFrcFE3a1RVdGpUMlBiaVNJ?oc=5",
+  "source": "전자신문",
+  "published": "2026-07-10T00:47:12+00:00",
+  "index": 2,
+  "relevance": 5,
+  "category": "정책/규제",
+  "summary": "부산테크노파크의 에이지테크 커넥트 데이 개최로 고령친화 기술 기업 지원 및 투자 연계를 강화한다. 지역 기반 실버 기술 스타트업 육성 및 사업화 플랫폼 제공한다.",
+  "korea_gap": "에이지테크 정책은 존재하나, 해외 검증 모델의 한국 도입 사례는 구체적으로 확인 필요"
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "부산테크노파크, '2026 부산 에이지테크 커넥트 데이' 개최 - 전자신문",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hVGwyS1cxOTl3Sjd0Y0t5LXlnVm1pSlJ6ZHJ0YzJacGo4SFIyakNQaHN3V3c0d1FSTzVqYTByVW1QdENpTXQ1VW5CZkpEdw?oc=5",
+  "source": "전자신문",
+  "published": "2026-07-10T00:47:12+00:00",
+  "index": 3,
+  "relevance": 5,
+  "category": "정책/규제",
+  "summary": "부산테크노파크의 에이지테크 커넥트 데이 개최로 고령친화 기술 기업 지원 및 투자 연계를 강화한다. 지역 기반 실버 기술 스타트업 육성 및 사업화 플랫폼 제공한다.",
+  "korea_gap": "에이지테크 정책은 존재하나, 해외 검증 모델의 한국 도입 사례는 구체적으로 확인 필요"
+ }
+]
