@@ -1,0 +1,28 @@
+[
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "에이지테크로 존엄한 노년—Village Capital 모델이 한국 고령화 정책에 던지는 질문 - 뉴스N연합",
+  "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55VXV2TUtBNWpxWGxBTzRLX3NFT3V4T3hRRzE3ZF9wbDFsYkdfWllUZGpzcjUtU0hhcXNYcWk2SlNqckcxeUNxUjJR?oc=5",
+  "source": "뉴스N연합",
+  "published": "2026-07-14T10:28:00+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "Village Capital 모델을 통해 고령화 사회의 에이지테크 솔루션을 제시하는 사례를 소개하고 있으며, 한국의 고령화 정책에 새로운 접근 방식을 제안하고 있다. 커뮤니티 기반의 시니어 지원 생태계 구축이 핵심으로, 기존 복지 정책과 차별화된 비즈니스 모델의 가능성을 제기한다.",
+  "korea_gap": "Village Capital 모델의 한국 내 본격적인 도입·운영 사례가 제한적으로 보이며 추가 확인 필요."
+ },
+ {
+  "region": "north_america",
+  "query": "agetech startup seed funding",
+  "title": "Callie Care Raises $500K Pre-Seed | Sage Crosses $100 Million in 2026 Funding - Healthcare IT Today",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV3Rmcm4tLUU5OWg5Ml80cTVXR3EtNFJBeUNtRWkzS3ctUGl2eDM3UXBkREJvWFB6d1VLVnIxeU9EUWJ2c3Z1a0VyWnppd3pPNmxMeDJTbVo5MG9ETExsYVJ3Vy1NYWMzTlVqcEZETWRiRnlYeVhJM25IM2dFX1Y0YW5SbVBLMHU1bVF0dkZ2aVV2R0VfTDZQZWJxWnVhYWdmaHpNOTFUNTJpclZkT2x0d1ZENmF4dGJMYlhF?oc=5",
+  "source": "Healthcare IT Today",
+  "published": "2026-07-14T13:05:06+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "투자/M&A",
+  "summary": "Callie Care가 시니어 케어 플랫폼으로 50만 달러 프리시드 펀딩을 유치했으며, Sage는 2026년 1억 달러 이상의 펀딩 규모를 달성하며 노인 돌봄 시장에서의 투자 확대 트렌드를 보여주고 있다. 이는 북미에서 디지털 기반 시니어 케어 솔루션에 대한 강한 자본 관심을 반영한다.",
+  "korea_gap": "한국의 요양 플랫폼은 주로 공급자 중심이며, 통합 디지털 케어 매니지먼트 플랫폼 투자는 상대적으로 미흡한 상태 - 확인 필요"
+ }
+]
