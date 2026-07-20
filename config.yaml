@@ -1,5 +1,5 @@
 # Silver Radar 설정
-# 설계 원칙: "이미 일어난 한국 대형 뉴스"보다 "아직 한국에 없는 날것 아이디어 + 초기 스타트업"을 노린다.
+# 트랙 A(디지털 보호자=시니어 안부) + 트랙 B(본인 강점 ∩ 헬스케어: 새 후보 발굴)
 
 regions:
   korea:
@@ -12,6 +12,8 @@ regions:
       - "고령자 신규 서비스"
       - "AI 안부전화 돌봄"
       - "시니어 돌봄 앱"
+      - "시니어 헬스케어 AI 스타트업"
+      - "원격 모니터링 의료 스타트업"
 
   japan:
     hl: "ja"
@@ -23,6 +25,7 @@ regions:
       - "介護 DX 新規"
       - "見守りサービス"
       - "エイジテック"
+      - "ヘルスケア AI スタートアップ"
 
   north_america:
     hl: "en-US"
@@ -34,6 +37,9 @@ regions:
       - "senior care startup series A"
       - "aging in place technology"
       - "caregiver app launch"
+      - "remote patient monitoring startup funding"
+      - "edge AI healthcare startup"
+      - "digital health infrastructure seed"
 
   europe:
     hl: "en-GB"
@@ -42,6 +48,7 @@ regions:
     queries:
       - "agetech startup Europe funding"
       - "elderly care technology launch"
+      - "digital health startup Europe seed"
 
 lookback_hours: 26
 max_articles_per_region: 25
