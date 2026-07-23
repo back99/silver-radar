@@ -1,0 +1,41 @@
+[
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "케어런서 매일 숙제하는 어르신들 에이지테크 시대 시니어교육 선도 - 중소기업신문",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQT2ItUkNfM2pidndveGxhMWNpekZaWEZNUzZWZjFVTmgwelZILVFfNEhKUm5oU0xKVk55QmVtSDZ1ZGdRZk4wUGoxRVRPZFk5dHNZQXZnOWlOcURMMm1WX3dFUFRPWks4eFAwYmRR?oc=5",
+  "source": "중소기업신문",
+  "published": "2026-07-23T01:00:00+00:00",
+  "index": 1,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "케어런서는 어르신들이 매일 과제를 수행하는 형태의 에이지테크 교육 플랫폼을 운영하여 시니어 교육 시장을 선도하고 있다. 습관형 학습 모델을 통한 고령층 교육 서비스 신사업으로 주목받고 있다.",
+  "korea_gap": "한국에서 매일 과제 수행형 시니어 교육 플랫폼은 케어런서 외 경쟁 모델 사례가 드물어 보이며, 해외 검증 모델 도입 가능성 있음."
+ },
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "株式会社Tri-Arrowが居住サポート住宅の 無料オンライン実務研修を9月10日に開催 ～国の「孤立死」推計は年間2万2,222人～ - ニコニコニュース",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtZ3p4VDkzVkF4MGRZdThtdEpjYVZOckRENGhDN2ZOWTF0SXdJRndjU0hNYmZVTk1jU245c2tsc1ZhakNFWk9aaHN3QU5UYjNkcGhGOTV6UEc1VVNIREptTFMxMzhGX3JpY196dkVfOEJSMTRScFE1d0VMbw?oc=5",
+  "source": "ニコニコニュース",
+  "published": "2026-07-23T01:04:05+00:00",
+  "index": 3,
+  "relevance": 7,
+  "category": "비즈니스모델",
+  "summary": "Tri-Arrow가 거주 지원 주택(Supported Housing) 무료 온라인 실무 연수를 9월 개최하며, 일본의 연간 고립사 추정치 2만 2천 명을 제시. 고립 및 고독 문제 해결을 위한 거주 지원 모델이 일본에서 사업화되고 있음.",
+  "korea_gap": "한국에서는 공식적인 거주 지원 주택(Supported Housing) 비즈니스 모델이 미발달 상태"
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "부산 AI 에이지테크 기업 얼라이언스 출범…25개 실증과제 본격 추진 - gukjenews.com",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSTGFucnR4dmVMZXFFanpFQnZ6NVkxRDBTMXRVRGRIX2JsRDlCc2RtcWlGTVdzdXVlei1DWE05VFhrS1VZai04dWhJWDNLcWtWWXRGRE1oNzZZWW43c1ZTbWZUYUFIaVJyVUJkNzVB?oc=5",
+  "source": "gukjenews.com",
+  "published": "2026-07-23T05:26:10+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "기술",
+  "summary": "부산에서 AI 에이지테크 기업 얼라이언스가 출범하여 25개 실증과제를 추진 중이며, 정부 주도의 에이지테크 생태계 구축이 본격화되고 있다. AI 기반 실버 솔루션의 지역 중심 실증 프로젝트가 진행 중인 상황이다.",
+  "korea_gap": "한국도 에이지테크 얼라이언스 수준의 기술 클러스터는 형성 중이나, 실제 비즈니스 모델 성공 사례는 제한적."
+ }
+]
