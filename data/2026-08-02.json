@@ -1,0 +1,41 @@
+[
+ {
+  "region": "korea",
+  "query": "원격 모니터링 의료 스타트업",
+  "title": "[학생들이 주목해야 할 20가지 혁신적 의료 프로젝트 아이디어] 제안된 프로젝트들은 △AI 진단 △웨어러블·원격 모니터링 △원격의료·접근성 △병원·건강정보학 △공중보건 등 5개 카테고리로 구성 - AI넷",
+  "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBBVWw2TV9halJnZENZUVpzV1pQdDh6cUNkSnF2c3FNcXkxMks0Uy1EUGN0NndELWN2dFJWMDFtUFk?oc=5",
+  "source": "AI넷",
+  "published": "2026-08-01T14:47:38+00:00",
+  "index": 0,
+  "relevance": 5,
+  "category": "기술",
+  "summary": "의료 프로젝트 아이디어로 AI 진단, 웨어러블 모니터링, 원격의료 등 5개 카테고리의 20가지 혁신안을 제시했다. 학생 대상 교육 자료로서 개별 기술 트렌드는 언급하지만 구체적인 한국 시니어 시장 기회나 비즈니스 모델은 부재하다.",
+  "korea_gap": "웨어러블·원격의료는 한국에서도 활발하나, 구체적 사업모델 검증 사례 부족 - 확인 필요"
+ },
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "空き家、空き地見守り 郡山の企業が定期巡回サービス 障害者就労機会拡大へ - 福島民報デジタル",
+  "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaV2FsVE9MM3VrMTFLUTBVU2ZaeEJfbDhzNFI4WmpqMjFoY1NBQncyVkh5Sjl6M1IxMkVZZ1RWSUVvRzVqRC1iMDB6cGxDN2s?oc=5",
+  "source": "福島民報デジタル",
+  "published": "2026-08-01T02:00:00+00:00",
+  "index": 2,
+  "relevance": 5,
+  "category": "비즈니스모델",
+  "summary": "공실 및 공지 정기순찰 서비스를 통해 장애인 일자리 창출을 동시에 추진하는 모델이다. 시니어 보호와 사회적 고용 결합 가능성이 있지만 부동산 유지보수 중심이다.",
+  "korea_gap": "비즈니스모델은 존재하지만 시니어/장애인 고용 연계 형태는 국내에 유사사례 드문 편"
+ },
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "空き家、空き地見守り 郡山の企業が定期巡回サービス 障害者就労機会拡大へ - 47news.jp",
+  "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hT0x4MUFFQS1EMXVESEd1QmVCRzdZM3VoM1RaY1RBNlFuTklzSktCVzA3ZVVaTURydjhaa19PTHI1U3RuNGp0OXBlUQ?oc=5",
+  "source": "47news.jp",
+  "published": "2026-08-01T02:00:00+00:00",
+  "index": 3,
+  "relevance": 5,
+  "category": "비즈니스모델",
+  "summary": "공실 및 공지 정기순찰 서비스를 통해 장애인 일자리 창출을 동시에 추진하는 모델이다. 시니어 보호와 사회적 고용 결합 가능성이 있지만 부동산 유지보수 중심이다.",
+  "korea_gap": "비즈니스모델은 존재하지만 시니어/장애인 고용 연계 형태는 국내에 유사사례 드문 편"
+ }
+]
