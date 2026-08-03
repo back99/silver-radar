@@ -1,0 +1,54 @@
+[
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "スマートフォンの利用状況で、入居者の安全を守る新システムが登場。単身入居者見守りシステム「あんずるくん」を8月24日にリリース - PR TIMES",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNWmhqLXNXc0JPeV8tZHYwY08xWVB3OUw0aHZ0bUppT19KbVB4VFpra1g1UDFlcThkeTNpNnpQa2E5ZXp4QXpUc3Rna1pBWURQamhBbEw2c0tUQ0RwbGNzRWttZjJlUDlGdnc?oc=5",
+  "source": "PR TIMES",
+  "published": "2026-08-03T04:00:02+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "스마트폰 사용 패턴을 통해 단身노인의 안전을 실시간 모니터링하는 '보호 시스템' 모델을 출시했다. 기존 응급호출 방식을 벗어나 일상 활동 데이터 기반의 선제적 위험 감지 방식이 새로운 특징이다.",
+  "korea_gap": "국내에서 유사 서비스가 있지만 일상 스마트폰 사용 패턴 기반 독립형 시스템은 아직 일반화되지 않은 상태로 보임."
+ },
+ {
+  "region": "korea",
+  "query": "시니어 헬스케어 AI 스타트업",
+  "title": "홈플릭스, 국제수면치유박람회서 '아우름 생태계' 공개…원격의료 시대 겨냥 - 스타트업엔(StartupN)",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zSmR4bUplRTB4UE5tRTJHcDJoOE5Nalp0TzkxaUkzQ2o2aTAzZ1BOME5iSk9JQzg4ek9MVzFpX0d5LVRwNDNqa0twMmFzLU8zb1VCcDg3akRaSWFxdjkwNXg0Y3YyUzZx0gFsQVVfeXFMTlpydk91SzFjeXRTUFVFNEZzVWdkYWlNZTJydGNiVkNhZWRwVV9Lb01mSi0xTi1QR05uTFpjX2ZWbl9jeGVQUlJCa1JqbGlMQXpabGtZbnN3NG1EY1lfNGVwMlh2OWtmUFFoTm1t?oc=5",
+  "source": "스타트업엔(StartupN)",
+  "published": "2026-08-02T23:57:05+00:00",
+  "index": 1,
+  "relevance": 7,
+  "category": "비즈니스모델",
+  "summary": "홈플릭스가 원격의료 플랫폼 '아우름 생태계'를 공개하며 수면 치유 중심의 통합 의료 서비스 모델을 선보였다. 시니어 대상 원격의료와 웰니스 통합 접근이 주목되는 새로운 시도다.",
+  "korea_gap": "원격의료는 규제 완화 중이나, 수면·웰니스와 의료를 통합한 구독형 생태계 모델은 한국에서 아직 활성화되지 않은 상태."
+ },
+ {
+  "region": "north_america",
+  "query": "aging in place technology",
+  "title": "How technology is making the home a safer place to age - samsung.com",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdk5RVnlhNFlrQlhWdjZ0M2loM2MzaWhwUjlWSnV3QnBLd0ZHMHpWTk9VSFVXMXdnQ2lRSmtSOEtFZHNLbFJXWV94ZERGblFWNjZ4MmZXblNnQUp6VTJzdjNTbi1pNmhqNmJtczhUeWpnaXRxZ3RuV0Y3SmtjTENYc1FxcXFQMXIwWTJoWW94MGp6endEem9rRHU4cw?oc=5",
+  "source": "samsung.com",
+  "published": "2026-08-03T16:48:39+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "기술",
+  "summary": "삼성이 스마트홈 기술을 활용해 노인의 안전한 재택노화(aging-in-place)를 지원하는 솔루션을 제시하고 있다. IoT 센서, AI 모니터링, 긴급 알림 시스템 등을 통합한 통합 플랫폼으로 의료기관과 가족 간 연결을 강화하는 모델이다.",
+  "korea_gap": "한국은 스마트홈 보급률은 높으나, 시니어 특화 안전모니터링 통합 플랫폼 비즈니스는 미성숙 단계로 보임. 기술 기반 서비스보다는 기기 판매 중심이며, 의료연계 생태계가 부족함."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "보건산업진흥원, '에이지 테크(Age-Tech) 종합지원센터' 5개소 선정 - 메디칼타임즈",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZHp0dGItWjVjTDBEVnFmSmxoZXdzbWpEOTNYU2NaYzVBZVNNakNyYmQyYzkwNWZvbEZRbDJEV1BKTEthclQ1ZEo4UjVrMlF2SVE5U25DRTBxQ245Q0Z5UHJPZmNHdXgtQURhRWE3emMtQzlqeVFRMmMzaThWODJZeTk2TUVjdw?oc=5",
+  "source": "메디칼타임즈",
+  "published": "2026-08-03T06:51:12+00:00",
+  "index": 0,
+  "relevance": 5,
+  "category": "정책/규제",
+  "summary": "보건산업진흥원이 에이지 테크 종합지원센터 5개소를 선정하여 시니어 기술 스타트업 지원을 확대하고 있다. 정부 차원의 에이지 테크 생태계 구축 지원이 본격화되었음을 시사한다.",
+  "korea_gap": "한국도 에이지 테크 정책 지원은 진행 중이나, 실제 비즈니스 모델 검증 단계의 성공 사례는 제한적인 상태."
+ }
+]
