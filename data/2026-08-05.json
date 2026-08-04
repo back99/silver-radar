@@ -1,0 +1,54 @@
+[
+ {
+  "region": "korea",
+  "query": "고령자 신규 서비스",
+  "title": "日 로손, 고령자 맞춤형 편의점 선보여…태블릿 주문·배달 서비스 도입 - 재팬코리아데일리",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fUksydlJkYzdYc3QyeGJDVEY3eTBub0ZMTkZWckV2SGw0cDhKYnBBY2NIbVk2bDJsTURDU2djcEdhMXk5eXF2NHU4bzJiQjlhbDE3RGlVV25QSThSUzM0QV9DNnZucmRzWnQtZg?oc=5",
+  "source": "재팬코리아데일리",
+  "published": "2026-08-04T02:50:29+00:00",
+  "index": 0,
+  "relevance": 9,
+  "category": "비즈니스모델",
+  "summary": "일본 로손이 고령자 맞춤형 편의점을 출시하며 태블릿 기반 주문 및 배달 서비스를 도입했다. 기술 접근성이 낮은 시니어를 위해 UI/UX를 최적화한 새로운 소비 채널 모델을 검증했다.",
+  "korea_gap": "한국 편의점(GS25, CU, 이마트24 등)에서 시니어 전문 맞춤형 터치 주문/배달 시스템은 아직 구체화되지 않은 상태로 보임"
+ },
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "AI × 介護・見守り 高知発スタートアップ、イレブンラボ（ElevenLabs）日本語音声×AI技術で「故人・家族の声」を再現。認知症や独居高齢者向けAI通話サービス「リリーメモリー」8月提供開始 - 山陽新聞",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15SGdTRElRQVNvYU9OSlhKZVg0TUJfWjhYcEdfREdGc1FoSlFOaXZGNVlDMXY1M3RRbGdvcnlDQkc5d0t1U2dSMHR5MV9BQkkyYS1VZWRMZ2pUM1FMbmlsRFNDeGNQNWtJWWc?oc=5",
+  "source": "山陽新聞",
+  "published": "2026-08-04T02:00:00+00:00",
+  "index": 1,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "AI 음성합성 기술로 고인이나 가족의 목소리를 재현해 인지능력 저하 노인·독거 고령자와 대화하는 AI 통화 서비스가 출시됐다. 감정적 고립 해결과 인지 자극을 결합한 새로운 케어 모델.",
+  "korea_gap": "한국에는 유사한 감정형 AI 통화 서비스가 아직 본격 상용화되지 않은 상태로 보임."
+ },
+ {
+  "region": "japan",
+  "query": "ヘルスケア AI スタートアップ",
+  "title": "ヘルスケアスタートアップ「おいしい健康」毎日の献立に寄り添ったAI料理アプリの利用が、2型糖尿病の血糖管理改善と関連 〜自治医科大学の共同研究結果から判明〜 - PR TIMES",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4R0xOWVI4VzNqenVqSkxHanNBaVZqMVRZMjlCSVVEV3VKTlhIVVNoQnNKVTFCVVdLTHNFWUhoUDRuZ1pZYWpkV3BlVHY0NjV3X1FYc3hDcU51T29vVXBEekdyYnNoS2tzOUE?oc=5",
+  "source": "PR TIMES",
+  "published": "2026-08-04T06:00:02+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "기술",
+  "summary": "AI 기반 개인맞춤형 식단 추천 앱이 2형 당뇨병 환자의 혈당관리 개선 효과를 의학적으로 검증받았다. 헬스케어 앱의 임상적 효능 입증이 사업 확장의 근거가 되는 사례.",
+  "korea_gap": "국내에도 당뇨식 관리 앱이 있으나, 임상 검증을 거친 의료 연동형 모델은 제한적 상태."
+ },
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "「特定空家等をゼロにする」月額９９０円（税込）から始める空き家・空き地見守りサービス「アキパト」をリリース - PR TIMES",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96dzc0UVc5YmdqOUEwR0UwV3dRRXhfT3FCaFoxSUR1Y0dkSWtfRGZoM3hPejF2c3E0eDRFZ3lLbjR5UG04NWUxRGp4YlE4eGFydWstZWdtU3Y4U3ZjZ19vWU5ERE9TUzdKd0E?oc=5",
+  "source": "PR TIMES",
+  "published": "2026-08-03T22:00:01+00:00",
+  "index": 2,
+  "relevance": 5,
+  "category": "비즈니스모델",
+  "summary": "공가 및 공터 모니터링을 월 990엔대 저가로 제공하는 IoT 기반 수동형 견守 서비스가 출시됐다. 지방 공동화 문제 해결에 초점을 맞춘 틈새시장 모델.",
+  "korea_gap": "국내 공가 관리 수요는 높으나, 저가 모니터링 전문 SaaS는 아직 미성숙한 시장."
+ }
+]
