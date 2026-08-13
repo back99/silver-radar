@@ -1,0 +1,67 @@
+[
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "元警察官が実家や家族見守りサービスをスタート 空き巣や詐欺被害防ぐ 盛岡の「Iwate Safety Planning」 - 岩手日報",
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5VzJQXzQ3WnR1RS1UaU9rZDBfWWtSQmdjU1NOV0VHTGR5X1pfRnkydWxxV1NaTGEtVFNKdzBCTFJRenpWakZ0bm9vMGdnNjM0Q3R1Sm50TDF2VlY4bG1hcA?oc=5",
+  "source": "岩手日報",
+  "published": "2026-08-13T07:18:00+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "전직 경찰관이 시니어 가정을 대상으로 집 보안 및 가족 모니터링 통합 서비스를 시작했으며, 공실침입과 특사 사기 피해 예방에 초점을 맞추고 있다. 신뢰도 높은 전문가 배경을 활용한 틈새 안전 서비스 모델로 주목할 가치가 있다.",
+  "korea_gap": "한국은 시니어 특화 홈 보안/모니터링 서비스가 미흡하며, 신뢰 기반의 피해 예방형 모델은 거의 없는 상태."
+ },
+ {
+  "region": "north_america",
+  "query": "aging in place technology",
+  "title": "Evolving smart home tech redefines aging in place - reminetwork.com",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVzFNbjlYaFRoaDVMVjI5MEp1RXM1Q1VOclpkVmpDd1U2UU1qTXE1bXNyd1E4VFN5MGZwWTR1dl82aVg3cno4aDFVUkpuVlhrRjBmQnRaa2JWcWRtR0h2QlNNWEZNLVRfOGhjcTNpUFRGYnN2TExiRU1hUTctVk14YXFNNE9xMTgyWHVKMS1YYkM?oc=5",
+  "source": "reminetwork.com",
+  "published": "2026-08-13T13:24:24+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "기술",
+  "summary": "스마트홈 기술이 노인의 독립적 생활(aging in place)을 가능하게 하는 방식으로 진화하고 있으며, 이는 요양시설 대신 자택에서의 안전하고 자율적인 생활을 지원하는 새로운 서비스 모델을 만들고 있다. 낙상 감지, 원격 모니터링, AI 기반 건강관리 등 통합 솔루션이 확대되는 추세다.",
+  "korea_gap": "한국은 스마트홈 기술은 있으나 시니어 특화 aging-in-place 플랫폼은 아직 미성숙 단계로, 북미식 통합 솔루션 모델의 사업화 기회가 큼."
+ },
+ {
+  "region": "korea",
+  "query": "AI 안부전화 돌봄",
+  "title": "고령층 이상징후 척척…폭염 속 빛난 AI돌봄 - 네이트",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52cWdscWJBZ05sRlZuNWd0eXlkVzhpZHJUUlhHWFdjWGdLOVdwa3ZaSC1oSndjUFVVVXU0RzRPLVdXMkN3VmlYSXhLbEhXWVdSYWF3TWl2aTE4cW81djdFZnhqU0R3cy1OWHJSdWxn?oc=5",
+  "source": "네이트",
+  "published": "2026-08-13T08:30:00+00:00",
+  "index": 0,
+  "relevance": 7,
+  "category": "기술",
+  "summary": "AI 기반 돌봄 서비스가 폭염 속 고령층의 이상징후를 실시간으로 감지하는 사례가 주목받고 있다. 원격모니터링과 조기 개입을 통해 응급상황 대응 시간을 단축하는 새로운 돌봄 기술의 효과가 입증되었다.",
+  "korea_gap": "한국에서도 일부 AI 돌봄 서비스가 시작되고 있으나, 고령층 생활공간(주거)에 통합된 상용화 모델은 여전히 초기 단계로 확인 필요"
+ },
+ {
+  "region": "korea",
+  "query": "AI 안부전화 돌봄",
+  "title": "고령층 이상징후 척척…폭염 속 빛난 AI돌봄 - 서울경제",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0waGRoS2VyWHM0SmNmRE9VaHBKTGtHR081NUprcjU3V2tZU05wYlluWW5LSkhMUVNnWGdBYUhFalBZcERLN3kzUmJMNXVoUjJDaFE?oc=5",
+  "source": "서울경제",
+  "published": "2026-08-13T08:29:06+00:00",
+  "index": 1,
+  "relevance": 7,
+  "category": "기술",
+  "summary": "AI돌봄 기술의 폭염 시 활용 효과를 보도한 기사로, 실시간 모니터링을 통한 고령층 건강 위기 대응 사례를 다룬다. 예방적 돌봄의 중요성이 강조되면서 해당 기술의 시장성이 증대하고 있다.",
+  "korea_gap": "한국에서도 일부 AI 돌봄 서비스가 시작되고 있으나, 고령층 생활공간(주거)에 통합된 상용화 모델은 여전히 초기 단계로 확인 필요"
+ },
+ {
+  "region": "japan",
+  "query": "ヘルスケア AI スタートアップ",
+  "title": "Mayo Clinic PlatformとJETRO、J-StarX US Healthcare Breakthroughプログラムに参加する日本のヘルスケアスタートアップ15社を発表 - PR TIMES",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vWV9fZElLOFNrZU11Ui1mLUNXNzR1M0hITHhYd3d1OUI4YlQ4c25oemI4eHg0V2RreTRjVm9VdVI1RmNwYTV4aEFhdkJQYmdMeXZ6X3NWSm8zSnZWM2NiZFVHaWJpcXY3ZFE?oc=5",
+  "source": "PR TIMES",
+  "published": "2026-08-13T04:30:02+00:00",
+  "index": 1,
+  "relevance": 5,
+  "category": "투자/M&A",
+  "summary": "Mayo Clinic Platform과 JETRO가 주관하는 미국 헬스케어 혁신 프로그램에 일본 스타트업 15사가 참여하며 글로벌 투자 및 협력 기회를 모색하고 있다. 일본 헬스케어 스타트업의 국제 확장 동향을 보여주지만 구체적 비즈니스 모델 정보는 부족하다.",
+  "korea_gap": "확인 필요 (참여 기업 상세 정보가 없어 구체적 평가 불가)"
+ }
+]
