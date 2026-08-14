@@ -1,0 +1,54 @@
+[
+ {
+  "region": "korea",
+  "query": "원격 모니터링 의료 스타트업",
+  "title": "원산협 “비대면진료, 초진·재진보다 환자정보 기준으로 규제해야” - 스타트업엔(StartupN)",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HTkNJTU8zVjZTcnJaWDJsMmZCbnhUQlRUWnM3Mk9lODhwTkRDTmZ4NENuYVphTGtYN3ZVV3ZSUHRobEV1ZW5HcW1TR1FlNl9KOHJlZFFVeVV6MklWMEpkdmM3UGtiTVV50gFsQVVfeXFMUDJwUkRSOC1sMVhBVmtiUWZJTkEtaklnZFl2RTFScG55TVh3RkxVbkxVWHppY0dKLVNWWEh2Snc4Y2otZWN5cTk3ZXdrWHYyQVowMXpvZUVsNlViY19TcGVuVG4tZTJfOWJ6T1NU?oc=5",
+  "source": "스타트업엔(StartupN)",
+  "published": "2026-08-14T10:12:04+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "정책/규제",
+  "summary": "의료협회가 비대면진료 규제 기준을 초진·재진 구분에서 환자정보 기반으로 전환할 것을 주장하고 있다. 이는 비대면진료 시장의 규제 방향성 변화를 시사한다.",
+  "korea_gap": "비대면진료는 한국에 이미 존재하나, 규제 기준 논쟁은 시니어 맞춤형 원격의료 모델 개발에는 제약이 될 수 있음."
+ },
+ {
+  "region": "north_america",
+  "query": "edge AI healthcare startup",
+  "title": "7 Leading AI Healthcare Solutions Development Firms Worldwide (2026) - nerdbot",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMTNoZTJwelZkWUtBNUJVVmh2U05rX2ZZMWRVXzl2aC0xamhPQnNRelpIczJ3c2VrUkxRbXlHaTZrNktRc1VWdDdLLTVsenRKc1NDZ3BIMVExYW9CTC1uSGhiRHN5azlJWVZVd3F5UTdqMTV3Ujlxd2NpQUlBUXZoVkZMeEV1d2lJUmNzeUllZUdDMFl1Q1FLUURGZ1dHZXc?oc=5",
+  "source": "nerdbot",
+  "published": "2026-08-14T17:56:03+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "기술",
+  "summary": "북미에서 성장 중인 7개 AI 헬스케어 솔루션 개발사의 현황을 소개하며, 의료·실버 케어 분야에서 AI 기반 진단·모니터링 기술이 주요 투자 대상임을 보여준다. 시니어 돌봄, 질병 예측, 원격 진료 등 AI 응용이 확대되고 있는 추세를 반영한다.",
+  "korea_gap": "한국도 AI 헬스케어 스타트업이 있으나, 북미 수준의 규모 있는 시니어 특화 AI 헬스케어 플랫폼 기업은 제한적 - 확인 필요"
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "바이어헬스 산업의 현재와 미래 한자리에 모인다 - 부산일보",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRdnFqV2hUeWV3UDJpY1k3QmFwX2NYSGEyc3hPVTdOaGxjRDZYX1A0VzRhbm5oRUx5RG5mdUlUTE5DNTNQWjQxSFJoQ0NVSXpTNjlzUm44ZE9QQmNteFYyR3BleEZTSTZYT0NXdFQ4dmVpQTNT?oc=5",
+  "source": "부산일보",
+  "published": "2026-08-14T01:28:03+00:00",
+  "index": 1,
+  "relevance": 5,
+  "category": "기타",
+  "summary": "바이어헬스 산업의 현황과 전망을 다루는 행사/포럼 개최 소식이다. 구체적인 비즈니스 모델이나 시장 데이터가 부족하다.",
+  "korea_gap": "확인 필요"
+ },
+ {
+  "region": "north_america",
+  "query": "digital health infrastructure seed",
+  "title": "Team8 raises $365 million to back the next generation of AI-native enterprise companies - Ynetnews",
+  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZY3hvVkpSdFlpRjJ1M1VBU1luaXJOR0dfTFRXaVNjNmEtczhJMlpCa0tCZ0pwWDlva3BGdGhFNWxqT1RaUjZ2YkNUUm1vQXJSajN2Zy0yQ1JMTFU1WGVhR1Jn?oc=5",
+  "source": "Ynetnews",
+  "published": "2026-08-14T11:41:23+00:00",
+  "index": 1,
+  "relevance": 5,
+  "category": "투자/M&A",
+  "summary": "Israeli venture firm Team8이 $365M을 조성하여 AI-native 기업 투자를 강화하는 소식으로, 실버 분야 AI 스타트업도 투자 대상이 될 가능성을 시사한다. 다만 일반 AI 기업 펀딩 동향이므로 시니어 산업 구체성은 낮다.",
+  "korea_gap": "한국 시니어 AI 스타트업도 해외 VC 투자를 받지만, Team8 규모의 대형 펀드가 시니어 분야에 전략적으로 집중하는 사례는 드물다"
+ }
+]
