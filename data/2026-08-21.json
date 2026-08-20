@@ -1,0 +1,41 @@
+[
+ {
+  "region": "korea",
+  "query": "AI 안부전화 돌봄",
+  "title": "전기·통신 끊기면 AI가 먼저 안다…순천시 '고립 없는 도시' 만든다 - 뉴스후플러스",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wLXFpa0NQMXQ3QnA1ejdOamIwLWNFc3pSSEQ2Yld2dXctcXFxSE0zWEZYZXJHTllkUnd3YXdEWmMxc2lvaEtIWUI2Vm1RRTluX1JLaEZ5VXB3bXFSVV91MUVNU0VWRFZadWhXU21n?oc=5",
+  "source": "뉴스후플러스",
+  "published": "2026-08-19T21:30:00+00:00",
+  "index": 3,
+  "relevance": 8,
+  "category": "기술",
+  "summary": "순천시가 AI 기반 고립 감지 시스템을 도입하여 전기·통신 단절을 조기에 파악하고 자동 알림하는 '고립 없는 도시' 프로젝트를 추진 중이다. 원격 모니터링 및 예방적 케어 기술 기반 비즈니스 모델의 한국 도입 사례로 주목할 만하다.",
+  "korea_gap": "파일럿 사업 단계이며, 일본·북미의 유사 원격 케어 시스템(예: 스마트홈 기반 고립자 감지)보다 초기 단계 확인 필요"
+ },
+ {
+  "region": "north_america",
+  "query": "aging in place technology",
+  "title": "JMIR Aging seeks research on invisible monitoring and AI-enabled aging in place - Bioengineer.org",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdDZ1NXNYM1RCYVJkd2IxeEY3NG5ObDZSYW1lVEFCNFBuMzFrbjlWXzdyaTN2Y0xuRVZNWFgxN0ZiNWRwRWFVNlNVUzBTV2RsS2RNNDUzTmg3N24zVWJBRXQwZDJoX0VFQUZTbU1GRW9LXzJmdGhFOGp1eWwtS2hTSVJsN0dPLURTMWNvY0ZXU3AzNTkyRWllbVdLNHlRMTV0QTkxZGlwdw?oc=5",
+  "source": "Bioengineer.org",
+  "published": "2026-08-20T19:28:23+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "기술",
+  "summary": "JMIR Aging이 보이지 않는 모니터링(invisible monitoring)과 AI 기반 재택노화(aging in place) 연구를 모집 중으로, 센서·AI 기술을 활용한 비침투적 시니어 케어 모델이 주목받고 있다. 이는 프라이버시 보호와 독립적 생활을 동시에 실현하는 차세대 기술 트렌드를 시사한다.",
+  "korea_gap": "한국에서 시니어 모니터링 서비스는 주로 웨어러블·앱 기반이며, 환경 기반 invisible monitoring 기술 및 AI 통합 솔루션은 초기 단계 - 북미 사례 벤치마킹 가치 높음."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "시니어 산업, 에이지테크 포럼 & 커피챗 네트워킹9.9 - 브런치",
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuMTBtT3RIY3pvTmtydGttRHdtRHZtYkZaT3pCb2FCYUxfZlVKUWxKX3h0SWl0Z2pPYTdsUmx1aEpfZm5tQmFpdnRyRkxnWktRVXQ4?oc=5",
+  "source": "브런치",
+  "published": "2026-08-19T22:48:41+00:00",
+  "index": 2,
+  "relevance": 6,
+  "category": "기술",
+  "summary": "에이지테크 관련 산업 포럼과 네트워킹 행사가 개최되어 시니어 기술 솔루션 종사자들 간 정보 교류가 이루어졌다. 현재 진행 중인 에이지테크 시장의 생태계 형성 신호로, 새로운 비즈니스 기회 탐색에 참고할 가치가 있다.",
+  "korea_gap": "국내 에이지테크 커뮤니티 초기 단계, 구체적 모델 사례 확인 필요"
+ }
+]
