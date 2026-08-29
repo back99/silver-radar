@@ -1,0 +1,41 @@
+[
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "부산 고령화 위기, 기술혁신 기회로 재창출…에이지테크 거점 육성 - v.daum.net",
+  "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3c09OaUVkVlFEWHZZcTV0YXhWRXdTcllwNkRzaDF4TGxUTkJxRmRfTEswcGVRN1BUSF9UQ1pwX3FJX1ZpR2xVekFPRDIxeUk?oc=5",
+  "source": "v.daum.net",
+  "published": "2026-08-28T05:57:27+00:00",
+  "index": 1,
+  "relevance": 8,
+  "category": "기술",
+  "summary": "부산이 고령화 위기를 AI·에이지테크를 통해 기회로 전환하려는 거점 육성 정책 추진 중. 기술혁신 기반 시니어 산업 활성화 계획이 지역 차원에서 구체화되고 있음.",
+  "korea_gap": "에이지테크 거점 조성은 부산 중심 초기 단계로, 전국적 생태계는 미성숙 상태"
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "부산 고령화 위기, AI 기술혁신 기회로 재창출…에이지테크 거점 육성 - 파이낸셜뉴스",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03dDVtUlp5dGRUaXJGOVVvS1lVRVZGUm0zRUpBQmdWWjNzTlRSY2J5Y0FTYjZqbVctNXBRd2w4ZDFGZmozT1ZMS2JQTVJWdW9TeV93cV84ZWFIdw?oc=5",
+  "source": "파이낸셜뉴스",
+  "published": "2026-08-28T05:55:23+00:00",
+  "index": 2,
+  "relevance": 8,
+  "category": "기술",
+  "summary": "부산 고령화 위기를 AI 기술혁신으로 재창출하는 에이지테크 거점 육성 전략. 지자체 주도 시니어 기술 산업 생태계 조성 움직임.",
+  "korea_gap": "에이지테크 거점 조성은 부산 중심 초기 단계로, 전국적 생태계는 미성숙 상태"
+ },
+ {
+  "region": "north_america",
+  "query": "caregiver app launch",
+  "title": "Exclusive: Government Launches Caregiving Part-Time App Amid Shortage - 조선일보",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkY0U1dqM3prMDFWallISHB4NGFGNkwwTDVWdl9jdkJBd3FLWDhKN3Jpa1VaREI5a1NkWnZHN2IyLWZtR18wTktXRkRkZVhHbU85RlYwVzJueVdwZ3NBUTk3aU55dlRpa1NWMXRIVDhyQ0N1MlA3VTNwSmo0TTRSdnFmVHZDQjFs?oc=5",
+  "source": "조선일보",
+  "published": "2026-08-28T22:26:22+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "북미에서 돌봄 인력 부족을 해결하기 위해 정부가 파트타임 간병 앱을 출시했다. 플랫폼 기반 유연 근무 모델로 간병인 공급과 수요를 실시간으로 연결하는 새로운 접근법이다.",
+  "korea_gap": "한국은 아직 공식 정부 주도 간병 플랫폼이 없으며, 민간 앱들도 파트타임 간병 시장이 미성숙한 상태로 보임"
+ }
+]
