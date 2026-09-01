@@ -1,0 +1,41 @@
+[
+ {
+  "region": "korea",
+  "query": "AI 안부전화 돌봄",
+  "title": "[맥락읽기] \"부모님 안부, 매달 구독할까\"…청연이 'AI 안부콜'로 시험하는 시장 - 데일리팝",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UaEh0SjJGZzI0aEpnZzZlTHQ4OTc5bmdjelVuUVJjclFYYUdHMkNac0JnRDRFcXZqZlhlSjB1NDRrQl9KMk1NTDdBbnQ1cXZWTVktTGZrcGVRckdzaGVYYWc1bXJfQTJ1?oc=5",
+  "source": "데일리팝",
+  "published": "2026-08-31T02:29:00+00:00",
+  "index": 3,
+  "relevance": 9,
+  "category": "비즈니스모델",
+  "summary": "AI 기반 '안부콜' 구독 서비스를 시니어 시장에 적용한 새로운 BaaS(Behavior-as-a-Service) 모델이 시험 중이다. 월정액 구독 방식으로 정기적 수익 창출 가능성을 검증하고 있다.",
+  "korea_gap": "유사 서비스 초기 단계이나, 해외(북미·일본) 검증된 구독형 케어콜 모델의 한국 로컬라이제이션 기회 높음."
+ },
+ {
+  "region": "korea",
+  "query": "고령자 신규 서비스",
+  "title": "“나도 할래” 3시간 최대 12만 원…노인 말벗·병원동행 서비스 등장[아하중국] - 문화일보",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04T0dXNWw4LWRQUmJtS1A4eXVqa1Vaa3BqeEIwN1lNeGRPNEtwYmxvMzZsT2puZm9adGprMXVta0NPaUk0WU9RU2tpaERtN0Nk?oc=5",
+  "source": "문화일보",
+  "published": "2026-08-31T11:19:49+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "시간당 최대 12만 원 가격대의 노인 말벗·병원동행 서비스가 본격화되고 있으며, 수요 증가로 새로운 시장 기회를 창출 중이다. 기존 요양보호사와는 다른 저강도·고부가가치 서비스 모델이 형성되고 있다.",
+  "korea_gap": "국내에도 유사 서비스 존재하나, 체계적 플랫폼화·가격대 책정 전략은 여전히 초기 단계."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "K뷰티에서 항노화까지 ‘스마트 헬스케어’ 미래 연다 - busan.com",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53UFZGSHFSc0c3TmlVQ0I5bEg4XzBhYmlvb1h6d1pQbEk1TDVjSllHVnhsLWtVTkpHbkg4MWgydFNGZ1R1dUdSS3d3Q3YzRmNPV3lobGhHM1VkZHhIbDJCc1E2VUFsTVh4WW9nLVE1QUFDLXBD?oc=5",
+  "source": "busan.com",
+  "published": "2026-08-31T08:37:56+00:00",
+  "index": 2,
+  "relevance": 6,
+  "category": "기술",
+  "summary": "K뷰티와 항노화 기술을 결합한 '스마트 헬스케어' 분야가 부상하고 있다. AI·센서 기반 개인화 건강관리 및 뷰티 솔루션이 새로운 시니어 시장 진입점이 되고 있다.",
+  "korea_gap": "기술 수준은 높으나, 시니어 특화 UX/비즈니스 모델화는 아직 미흡한 상태."
+ }
+]
