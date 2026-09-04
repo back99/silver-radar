@@ -1,0 +1,80 @@
+[
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "株式会社otta、太陽生命保険株式会社と連携 地域見守りネットワークの拡大へ - PR TIMES",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90TWhVMEpOTS04ZFloNjd0TlpCZE9qZXQ1NFdxNUUzb05waEpRRTVEU25SQmFRdnNkOWZ0c0Zac0RCX214VnpFTFBQQm8tWjNoNDRQb0NvZmN5MjJlYVpRNWQwVjBVVUg2Z2c?oc=5",
+  "source": "PR TIMES",
+  "published": "2026-09-04T05:20:51+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "otta가 태양생명보험과 제휴하여 지역 기반 시니어 보험 고객 대상 '보안 네트워크' 서비스를 확대하는 모델. 보험사-스타트업의 협력을 통해 실시간 모니터링과 보험 상품을 결합한 새로운 형태의 지역 케어 솔루션.",
+  "korea_gap": "한국에는 보험사-케어 네트워크 연계 모델이 제한적이며, 지역 단위 통합 보안 서비스 플랫폼은 아직 초기 단계."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "부산 에이지테크 \"전시 넘어 실증으로\"…기업·수요처 1대1 매칭 - gukjenews.com",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mQUZCd3FBaGR6R0x4NmJJR0NPcWJFTzYxOE5GRHdfX1lhSVpxQ19qSFB6U1N6RG8tX21jU08wdGUzU2RqeEI3SVg1cklKVTM2cy1SeUNhUHJIV25EaXgzU2M2dm54cjFYUVBCOEt3?oc=5",
+  "source": "gukjenews.com",
+  "published": "2026-09-04T04:03:25+00:00",
+  "index": 2,
+  "relevance": 7,
+  "category": "비즈니스모델",
+  "summary": "부산정보산업진흥원이 에이지테크 기업과 실제 수요처(요양원, 병원, 복지시설 등)를 1대1 매칭하는 사업화 프로그램을 운영한다. 실증 사업을 통해 시장 검증 기회를 제공하는 모델이다.",
+  "korea_gap": "유사한 매칭 프로그램은 일부 존재하나, 에이지테크 특화 현장 검증 플랫폼은 미흡한 상태."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "부산정보산업진흥원, AI 에이지테크 서비스와 시니어 현장 수요처 잇는다 - 부산일보",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MM1ZKR3oxRTVuZmpVemktYVQ0RjZuWERiVWllUVA5ZElVZHU2WVBFWDNUSTNFV1FwWFZlUTdyckZvR2hsZVIwSE9XMVVMcEtQb1haZUpZYk5DUE5MY2lMV3UxczVfZ1ktamlqd0VWNGhFOHdNUm5n?oc=5",
+  "source": "부산일보",
+  "published": "2026-09-04T02:07:06+00:00",
+  "index": 5,
+  "relevance": 7,
+  "category": "비즈니스모델",
+  "summary": "AI 에이지테크 서비스 공급사와 요양시설, 복지기관 등 실제 수요처를 직접 연결하는 매칭 사업을 통해 한국 시니어 시장의 실질적 니즈를 파악하고 있다. 현장 기반 사업화 모델의 형태이다.",
+  "korea_gap": "현장 밀착형 에이지테크 매칭 생태계가 부족하며, 대부분 시장 초기 단계."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "돌봄부터 관광까지…부산, AI 에이지테크 ‘현장 수요’ 찾는다 - 직썰",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDZE13aXZmT1hzR2wwZE10d2lIeEliQlVSN1Q1clc3QllOZ0x0LWJxMWF5emkwQUdJdktOQW1WMWZsOGd1VFZSdFRRRFlKN3J5RllVMUZiYXliVzdmYXRZVDYtb2ZpM0hU0gFsQVVfeXFMTXhGZjczbjJ4eG1RX3pUc01qZTFPaHZHTTdUTlY5MHBpRDQ3Mjd5MlR3UG1sRk9DRDR5d0x1OFlmN2hJUTBPMFU4czEtQUlVX1FrVy1RVERaWGx0OXRjUTRSQ0lqNng4Uy1mSmI5?oc=5",
+  "source": "직썰",
+  "published": "2026-09-04T07:53:04+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "비즈니스모델",
+  "summary": "부산에서 AI 기반 에이지테크 솔루션을 돌봄·관광 등 실제 시니어 수요처와 매칭하는 현장 검증 사업을 추진 중이다. 전시 수준을 넘어 기업과 수요기관의 실질적 협력 모델을 구축하고 있다.",
+  "korea_gap": "에이지테크 생태계 자체가 초기 단계이며, 실제 수요처와의 B2B 매칭은 아직 체계적이지 않음."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "부산정보산업진흥원, 에이지테크 기업·수요기관 비즈니스 매칭 추진 - news.nate.com",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TM1BLV0VUbHYxT0ZGYjFjSVVLU0JFUk1WTFNGLWtfNDdwdHIzeGJnRzJwVnZuSHdLelpCMWY5aC1fU256WDlWR3R6Vjhka3o5czZmTVBxM2FEV05GUklHOFFHU3hNX0gzVlM4T0plWlF3dEN4Q19YQg?oc=5",
+  "source": "news.nate.com",
+  "published": "2026-09-04T03:13:00+00:00",
+  "index": 4,
+  "relevance": 6,
+  "category": "비즈니스모델",
+  "summary": "부산정보산업진흥원이 에이지테크 기업과 수요기관 간 비즈니스 매칭을 체계적으로 추진하고 있다. 공급 기업의 기술과 시니어 현장의 실제 니즈를 연결하는 중개 역할을 수행 중이다.",
+  "korea_gap": "에이지테크 중개 플랫폼 자체가 발전 초기 단계로, 일본·북미처럼 체계화되지 않음."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "부산정보산업진흥원, 에이지테크 수요-공급 1대1 밋업 - 전자신문",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5NTdtUVZHdkxZd1VjdmpqWFFxS3RZS3E5RE1zLVV6RTVTTTV1Ml95LWFuQnJpblFHUmRFMlI5c0Q2cEZlZjRiZlFPSUlydw?oc=5",
+  "source": "전자신문",
+  "published": "2026-09-04T01:48:13+00:00",
+  "index": 7,
+  "relevance": 6,
+  "category": "비즈니스모델",
+  "summary": "부산정보산업진흥원의 에이지테크 기업-수요처 1대1 밋업 프로그램으로, 기술 공급사와 실제 운영기관 간 직접 협력을 촉진한다. 초기 스타트업의 시장 진입 검증 기회를 제공한다.",
+  "korea_gap": "한국에서도 유사 매칭 사업이 시작됐으나, 아직 초기 단계이며 일본·북미의 성숙한 에이지테크 생태계에는 미미함."
+ }
+]
