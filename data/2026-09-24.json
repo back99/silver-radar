@@ -1,0 +1,54 @@
+[
+ {
+  "region": "korea",
+  "query": "AI 안부전화 돌봄",
+  "title": "초고령사회 돌봄도 변화…생활 지원 넘어 사회관계·정서·AI로 확대 - 뷰어스",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90T0ZHNUlOUXYtV0FRV1JFcThtRjJNSkdfWTJSTHN3TnNlaGxUUlVCSDZIU19DaXUxZGJvcE9fV2QxajJoY0NyZzVFSUd1RjR6OVcyYzRtODk?oc=5",
+  "source": "뷰어스",
+  "published": "2026-09-23T05:36:05+00:00",
+  "index": 2,
+  "relevance": 8,
+  "category": "시장데이터",
+  "summary": "초고령사회 진입에 따라 돌봄 서비스가 생활 지원을 넘어 사회관계, 정서 지원, AI 기술로 확대되는 시장 트렌드를 분석한다. 통합적 웰빙 케어 모델의 출현을 보여준다.",
+  "korea_gap": "정서·사회관계 중심 돌봄은 선진국 대비 한국에서 미성숙한 영역"
+ },
+ {
+  "region": "korea",
+  "query": "AI 안부전화 돌봄",
+  "title": "어르신 데이케어가 ‘학교’로…AI 안부전화 6만명 이용 - 한국경제",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GcVItZUhBODBYQ3hVLTJnNlBrSU4wRDdmLWFsUng1Tm1wZ1N5cW5WOWNCNkhSaUJacmFlaTFJMWNpb2E4ZXdLQWlKeVgtVXVtM1RHcHg4cXZlZw?oc=5",
+  "source": "한국경제",
+  "published": "2026-09-23T05:04:31+00:00",
+  "index": 3,
+  "relevance": 7,
+  "category": "비즈니스모델",
+  "summary": "데이케어 센터를 교육·학습 공간으로 재정의하고, AI 안부전화 서비스가 6만 명 규모로 검증되는 사례를 보여준다. 프로그램화된 데이케어와 AI 터치포인트의 결합 모델이다.",
+  "korea_gap": "AI 안부전화는 기술 수준에서 존재하나, 데이케어의 '학교화' 콘셉트는 한국에서 아직 일반화되지 않음"
+ },
+ {
+  "region": "korea",
+  "query": "AI 안부전화 돌봄",
+  "title": "시니어 돌봄, 단순 보호에서 ‘자립·교류·AI 케어’로 진화 - 라포르시안",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NcW9xRU9xanVBWmUtaHUwbWxyaFpVMmtjTEZRWHV6S1ZYZmNzczYxN3I1eUItbk1zcjZqSTFPcTNlSnRTUkQ0d1Vud2tVVjNnVzJmeW5HNnBxZmZiR3R3UWdRaFM4cmdwaWQ5WA?oc=5",
+  "source": "라포르시안",
+  "published": "2026-09-23T01:09:53+00:00",
+  "index": 4,
+  "relevance": 7,
+  "category": "비즈니스모델",
+  "summary": "시니어 돌봄의 패러다임이 보호(케어) 중심에서 자립, 교류, AI 기반 돌봄의 삼각형 구조로 진화하는 트렌드를 분석한다. 종합적 웰빙과 자율성 강화 모델을 제시한다.",
+  "korea_gap": "자립·교류 강화 돌봄은 한국에서 요양 중심 시스템 내에서 소수 시범 수준"
+ },
+ {
+  "region": "korea",
+  "query": "AI 안부전화 돌봄",
+  "title": "\"명절 때만 안부 묻지 마세요\"...부모님 일상 챙기는 돌봄 서비스 - edaily.co.kr",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSVNnZFY4ZURvM2NpQ3l6SUFDOEloN193UkdUYUhhYVRnMEhIaFBnOVpfRWhTVE10VGNPMUZjZkR6TmJaZGxvNURCOURyN0cxQXlOQzZEbTVzM013RVE4Q0djRUhWcHo1eDhjZFVNYkVzRG1NOU13R3k0QnV1RGxoUw?oc=5",
+  "source": "edaily.co.kr",
+  "published": "2026-09-23T23:00:03+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "비즈니스모델",
+  "summary": "명절 중심 안부 확인을 넘어 일상적 돌봄 서비스로의 전환을 강조하는 서비스 모델을 제시하고 있다. 주기적·정기적 생활 지원 기반의 돌봄 플랫폼 수요 증가를 반영한다.",
+  "korea_gap": "한국에도 유사 돌봄 서비스 존재하나, 일상 정기화 수준의 고도화는 아직 제한적"
+ }
+]
