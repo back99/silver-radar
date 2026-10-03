@@ -1,0 +1,41 @@
+[
+ {
+  "region": "japan",
+  "query": "エイジテック",
+  "title": "エイジテックのシルバーエコノミーソリューションの市場規模、2030年に2538億3000万米ドル到達見込み - japan.zdnet.com",
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IZ043V0RLM2lWNm9DeWttZ011c042d3gzZ1hscEpSMTBLN0JKNHpCOV9WQ3ZKdlphNF9vWEJib3dYMWNKOG1vWDhZRS11Z1NiNmtn?oc=5",
+  "source": "japan.zdnet.com",
+  "published": "2026-10-02T00:00:00+00:00",
+  "index": 1,
+  "relevance": 9,
+  "category": "시장데이터",
+  "summary": "에이지테크 분야의 실버 이코노미 솔루션 시장이 2030년 254조 엔(약 2,538억 달러)에 도달할 것으로 예측된다. 글로벌 실버 시장의 급속한 성장성을 정량적으로 입증하는 데이터다.",
+  "korea_gap": "한국 시니어 시장 규모 예측치는 국내 기관에서 산발적으로만 발표되고 있어, 글로벌 벤치마킹 기준 부족."
+ },
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "エディオンスマートアプリにタイガー魔法瓶がIoT連携、炊飯で家族をそっと見守る「親孝行見守りパック」 - BCN Retail",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6VE5zUkhWTm9QSmJpbFF5MHFtdzZMc1RCZ2lYb0pCVnJiSzAyVko3b0cwYkxfWDV4OE5TM2RaTVBfZU9zUlZIbC00U0lXZjBITkw1THJteXZSc2hGbWRwMHNERUYxazFtaGpZMQ?oc=5",
+  "source": "BCN Retail",
+  "published": "2026-10-02T04:00:00+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "가전 회사(타이거 魔法瓶)가 스마트 앱과 IoT 연계하여 부모의 일상 행동(밥 짓기)을 통해 건강 상태를 자녀가 모니터링하는 '간접 돌봄' 서비스를 출시했다. 가전의 사용 패턴 데이터를 가족 안심 서비스로 전환하는 새로운 수익화 모델이다.",
+  "korea_gap": "국내에는 유사한 통합 IoT 가전 연계 돌봄 서비스가 미흡한 상태; 별도 웨어러블/앱 기반 서비스만 존재."
+ },
+ {
+  "region": "north_america",
+  "query": "aging in place technology",
+  "title": "Seniors conference in Montreal explores how technology can help people age in place - CTV News",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZHJsRUxSZmMyTnM4aGd5eWhXTHc1YzF1dm9xVmgyVl9RLUJUSnE5UDM0ZWgtUHI3NmJjVHRydDdfWFAtdGRCVWRaUllpNFpERlU2ekhKVDNCZUdadTh5dlJldTAtMGZ6dUVXbU9HVXNoaWhFS29wazRqVVlUOVZHN09fM0VlVnRyZXd5MEZyUnJ2aGJ1YWVVVlloalNxQzBOT0VGaTRTd2xFQUN4dTgwYWRiN3dDZWQzSnpLY1RhUUwwdw?oc=5",
+  "source": "CTV News",
+  "published": "2026-10-02T01:50:00+00:00",
+  "index": 0,
+  "relevance": 5,
+  "category": "기술",
+  "summary": "몬트리올 시니어 컨퍼런스에서 에이징 인플레이스(자택 고령화) 지원 기술이 논의되었다. 기술을 통한 독립적 생활 유지 방안이 주제이지만 구체적 비즈니스 모델이나 시장 기회는 제시되지 않았다.",
+  "korea_gap": "에이징 인플레이스 개념 자체는 한국에서도 도입 초기 단계이며, 실제 기술 솔루션 시장은 미성숙 상태로 추정."
+ }
+]
