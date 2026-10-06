@@ -1,0 +1,41 @@
+[
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "ダスキン／電気で見守りサービスを開始／東京電力パワーグリッドなどと共同で（2026年10月1日号） - 日流ウェブ",
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoOS12Sl9sWS12MUdERkZJbGEtNk1meXNwZURoOWNZQVVDam5qc0F0NUx3a0ZoUUVjTjBsZDFiUTdtZk5pTW1BNVR4ZEhVZDBlbGVpRTBBMA?oc=5",
+  "source": "日流ウェブ",
+  "published": "2026-10-05T13:29:10+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "다스킨이 도쿄전력과 협력해 전기 사용량 데이터를 기반으로 시니어 안부 확인 서비스를 출시했다. 기존 IoT 센서가 아닌 전력 인프라를 활용한 비용 효율적인 모니터링 모델이다.",
+  "korea_gap": "한국 전력사(한전)와의 유사 협력 모델은 아직 없는 것으로 파악되며, 기존 안부확인은 별도 디바이스/센서 기반이다."
+ },
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "ダスキン、電気で見守りサービスを開始 東京電力パワーグリッドなどと共同で - online.bci.co.jp",
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZdkFZQ0F1SWFycF9xR01LVGZDYTlta1NqdnR4N1BrZ0JjMk1jdzU5NHh3VERuU3JBWF9leUVhZS14MnR4U04tQ3pMcGFYRldiOEZJeE1zdw?oc=5",
+  "source": "online.bci.co.jp",
+  "published": "2026-10-05T11:49:07+00:00",
+  "index": 1,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "[0]번과 동일 기사 - 다스킨의 전력 기반 시니어 안부확인 서비스 공동 사업 발표다.",
+  "korea_gap": "중복 기사"
+ },
+ {
+  "region": "japan",
+  "query": "シニア向け 新サービス",
+  "title": "シルバーライフ、物流業務受託を発表 日本ハムの新サービス - online.bci.co.jp",
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91aTc2N0JqTkE4VmlfeEV5emozQU5LU2kzbnkyX1h6Nlc2cEVobXh2bWl3U0Q4TmY3eWFKdm9YWU1XckdkZ3MxVlBtZ2xiTUpIanJ2cXpGYw?oc=5",
+  "source": "online.bci.co.jp",
+  "published": "2026-10-05T05:01:54+00:00",
+  "index": 2,
+  "relevance": 7,
+  "category": "비즈니스모델",
+  "summary": "실버라이프가 일본햄과 협력해 시니어 대상 물류·배송 수탁업무 서비스를 출시했다. 고령층 고용 창출과 신선식품 배송 채널을 결합한 새로운 공급망 모델이다.",
+  "korea_gap": "한국에서는 고령층 고용 기반 식품 물류 위탁 모델이 체계화되지 않은 상태다."
+ }
+]
