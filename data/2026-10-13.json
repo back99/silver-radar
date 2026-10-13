@@ -1,0 +1,80 @@
+[
+ {
+  "region": "korea",
+  "query": "고령자 신규 서비스",
+  "title": "노인복지주택, 건강이 나빠져도 떠나지 않는다 - 유스연합",
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83MmREWDJ5ZHA4MjRoM3BCTGJjbVVMcnMxd0hvckdGaWpYZHBRNDNZVmtYSkItUV8wNEVZUnNkZlBqYkdaREtKRWI1TmRSWDdHa0dv?oc=5",
+  "source": "유스연합",
+  "published": "2026-10-12T06:37:25+00:00",
+  "index": 2,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "노인복지주택이 건강악화 후에도 거주 가능한 지속성 있는 장기요양 모델로 주목받고 있다. 기존 단순 요양원을 넘어 '떠나지 않는 홈' 콘셉트의 통합 서비스 모델이 부각된다.",
+  "korea_gap": "한국은 요양원과 일반 주택의 이분화 체계가 강하며, 통합형 복지주택 운영 생태계는 미성숙 상태"
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "‘AI·에이지테크’로 진화하는 돌봄·재활·복지···‘Reha·Homecare 2026’ 21일 개막 - 의사신문",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YVHBoRjFndXJZdk1JRm11UkptWjR6M1dJTUg2b1U4Z0w2ZFgyeTF3M2tKbFk4bHRSejV6UjFWbHZIME90UkJid3FtZTJHT1lRd1dPNGs0am9ReU9PclZXaGE5ZjR3Nmh3bHRPRXFubw?oc=5",
+  "source": "의사신문",
+  "published": "2026-10-12T04:40:21+00:00",
+  "index": 3,
+  "relevance": 8,
+  "category": "기술",
+  "summary": "'Reha·Homecare 2026' 전시회에서 AI·에이지테크 기반 돌봄, 재활, 복지 솔루션이 중심으로 부각되고 있다. 원격 모니터링, 스마트 재활 기기 등 하이테크 케어 통합 추세가 가시화되고 있다.",
+  "korea_gap": "한국 의료기관·요양시설의 에이지테크 도입률은 여전히 낮으며, B2B 솔루션 비즈니스 시장 형성 단계"
+ },
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "アイコネクト、サービス付き高齢者住宅で「Wi-Fiセンシング見守り」実証実験を開始 - 山陽新聞",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00cGZVUWNLdFplMEYwZVRaQ2ZheUo3WjNONVR6WGFrMlZkbmJCVjNVT1lWdmYzbzJka3ljWU44WlNuTFZ1RFpkbzd5d0xOYlNBMXc?oc=5",
+  "source": "山陽新聞",
+  "published": "2026-10-12T07:03:22+00:00",
+  "index": 1,
+  "relevance": 8,
+  "category": "기술",
+  "summary": "Wi-Fi 신호를 활용한 비접촉 센싱 기술로 요양시설 거주자의 움직임과 일상 활동을 24시간 모니터링하는 실증사업이다. 카메라나 웨어러블 없이 프라이버시를 보호하면서 낙상·이상 패턴을 감지할 수 있다.",
+  "korea_gap": "한국에서는 CCTV·웨어러블 중심의 안심기술이 주류이며, Wi-Fi 센싱 기반 요양시설 모니터링은 상용화 초기 단계다."
+ },
+ {
+  "region": "north_america",
+  "query": "caregiver app launch",
+  "title": "Tiina Launches AI for Seniors App to Help Older Adults Access Information Independently - Digital Journal",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHh6X3FjcmluaTlkb1pyZHhQczFaNFlCRmpUVnpSRGY0MmUyODBrU0xoZlBYOTlubmV5dVV2UnhxUTlkZEJxUmhIa0RJTkR5S01YaVFEUTV1R29NaXU3aUt2ZXBjbmhlMFlUbEJGZ3kyTFN4NE1KOVFEN0RtUW1zMHpOeC1Qc3ZxNklmUExBV3Rzd0Y1ZzdaN0RDd0cyUkEtbmc?oc=5",
+  "source": "Digital Journal",
+  "published": "2026-10-12T17:17:37+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "Tiina는 AI 기반 정보접근 앱을 통해 시니어가 독립적으로 정보를 검색·활용하도록 지원하는 모델을 출시했다. 음성·자연어 인터페이스를 중심으로 기술 접근성 장벽을 낮추는 새로운 접근법이다.",
+  "korea_gap": "한국에서는 시니어 전용 AI 정보접근 플랫폼이 제한적이며, 대부분 건강관리·사회활동 중심으로 운영 중 - 확인 필요"
+ },
+ {
+  "region": "korea",
+  "query": "AI 안부전화 돌봄",
+  "title": "에이아이웍스, SEWF 방문단에 AI 돌봄·에이전트 검증 솔루션 소개 - AI 매터스",
+  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XVl9peGFjY1gzMC1mNnBTN1FPdHM2bV93SnNPR094S2dCRURvajhUb1k0cWxVYXI2UzFsd2VLZktoX2YzQWhYZTlNTWNnTk5sdHlDSA?oc=5",
+  "source": "AI 매터스",
+  "published": "2026-10-13T00:44:19+00:00",
+  "index": 0,
+  "relevance": 7,
+  "category": "기술",
+  "summary": "에이아이웍스가 AI 기반 돌봄 및 에이전트 검증 솔루션을 선보이며 고령친화기술 시장 진출을 가속화하고 있다. SEWF 방문단을 통해 국제 시장 확대 계획을 추진 중이다.",
+  "korea_gap": "한국의 AI 돌봄 기술은 초기 단계이며, 실제 요양시설 운영 통합 사례는 제한적 상태"
+ },
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "NFC活用の「どうかんクンPoint」、ポイントと見守りサービスを専用タグで（日吉商店街連合会） - ペイメントナビ",
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50YzViVGhxV0FhWW1JTGdfUmVuLXZuVEVyamhRS3c3U1BjeXpNZktraVk4OGgxdG15cEtER09ndHgxTlJ4a2F6MTZDWFFoLUlaeHBKdFNFOTQ3RUk?oc=5",
+  "source": "ペイメントナビ",
+  "published": "2026-10-12T22:50:00+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "비즈니스모델",
+  "summary": "NFC 태그를 활용하여 포인트 적립과 노인 안심 서비스를 통합한 상권활성화 모델이다. 지역 상점가에서 고령층의 방문 빈도를 추적하면서 동시에 포인트 보상을 제공하는 하이브리드 접근이다.",
+  "korea_gap": "한국에서 포인트 시스템과 안심서비스는 별도로 존재하나, 상권 기반 통합 NFC 태그 모델은 제한적이다."
+ }
+]
