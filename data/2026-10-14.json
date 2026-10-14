@@ -1,0 +1,80 @@
+[
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "タカハタプレシジョンとハイパーデジタルツイン社が 3Dセンサーを活用したプライバシー配慮型見守りサービスの共同事業を開始 - Infoseek",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tUmxIZEtqc2lweElSNW8wdDdTMU9zTWN0SEl2VWxLRTRFNzBKSW9FNEdvNW9fUkYtRFV1d0tKQXhlb0xjNnFCbFM0OUJYWVp5Vi1RZGRUUVJxR3RnZlAyWkxRWGthWlRmZkVIRWVoVXJIZw?oc=5",
+  "source": "Infoseek",
+  "published": "2026-10-13T01:00:00+00:00",
+  "index": 1,
+  "relevance": 9,
+  "category": "기술",
+  "summary": "タカハタプレシジョン과 ハイパーデジタルツイン사가 3D 센서 기술을 활용한 프라이버시 보호형 견守りサービス 공동사업을 시작하여, 영상 대신 골격·행동 추적 정보만 수집하는 차세대 모니터링 솔루션 상용화. 프라이버시 규제 회피와 기술 신뢰성 확보의 동시 달성.",
+  "korea_gap": "확인 필요 - 국내에서 3D 센서 기반 프라이버시형 낙상감지·이상행동 감지 제품은 초기 단계이며, 대부분 카메라/음성 기반 솔루션이 주류."
+ },
+ {
+  "region": "korea",
+  "query": "고령자 신규 서비스",
+  "title": "유휴 어린이집, 어르신 ‘주거-돌봄 연계’ 공간으로 탈바꿈... 이동 줄이고 돌봄 효율 높여 - 유스연합",
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWZ3Q2RGR6UTE4OWphNGlrbkNMOUh1amlydHNxWDQ3LXZLdnBWQnhmZXlGS283eGhUMW14VzlCdlFkc1lnT0c5ODhIclA0clFxVTFN?oc=5",
+  "source": "유스연합",
+  "published": "2026-10-13T10:22:50+00:00",
+  "index": 3,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "유휴 어린이집을 시니어 주거-돌봄 연계 공간으로 전환하는 공간 재활용 모델을 시범 추진. 저출생에 따른 유휴 시설을 활용한 새로운 서비스 플랫폼 창출.",
+  "korea_gap": "한국의 저출생·고령화 구조에서 탄생한 고유한 기회 모델로, 유사 선진국 사례 확인 필요하나 한국의 특수성이 강함."
+ },
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "エディオン、見守りサービス拡大に本腰 対応家電、炊飯器・スマートロックも - 電波新聞デジタル",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KandLLWQxUFJPV2J2ejlJZjhMTDFCMUVaWDNBRFF2UDM2cE9HMVJMa2s5TWczelpvbjAzajUyMjlDakcxYXVmcWJYYkxJVGpLWmc?oc=5",
+  "source": "電波新聞デジタル",
+  "published": "2026-10-13T10:16:30+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "에디온이 가전 제조사와 협력하여 견守りサービス(원격 돌봄 서비스)를 확대하고 있으며, 기존 센서형에서 나아가 스마트 가전(밥솥, 스마트 락 등)을 통합한 생활 밀착형 모니터링으로 진화 중. 대형 유통사의 하드웨어-서비스 결합 비즈니스 모델로 B2C 시장 진입 장벽을 낮추는 전략.",
+  "korea_gap": "한국 대형 전자제품 유통사(Best Shop, Coupang 등)는 고령자 모니터링 서비스를 가전과 통합하는 사례가 미미하며, 대부분 요양보험사·요양시설 중심의 B2B 모델에 머물러 있음."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "건강하고 젊게… 2026 경기 스타트업 플렉스 ‘에이지테크’ 주목 - 경인일보",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0NUVsNEVNbzBQY2pjVjVRc3VlRldkNmllblhSbDY0OS1DUUFXMWd1bGlNd1Z6WTM3bVBUT2hRaTc2YXRuTUJBd0ZfdG9iV1NHX3c?oc=5",
+  "source": "경인일보",
+  "published": "2026-10-13T10:39:28+00:00",
+  "index": 2,
+  "relevance": 7,
+  "category": "비즈니스모델",
+  "summary": "2026년 경기 스타트업 플렉스에서 에이지테크를 주목 분야로 선정하여 창업 생태계가 본격 주목하기 시작. 정부 지원과 투자자 관심이 증가하는 신호.",
+  "korea_gap": "에이지테크 스타트업 생태계가 2026년 현재 형성 중이며, 선진국 대비 3~5년 뒤진 상태로 보임."
+ },
+ {
+  "region": "korea",
+  "query": "AI 안부전화 돌봄",
+  "title": "에이아이웍스, SEWF 방문단에 AI 돌봄·에이전트 검증 솔루션 소개 - AI 매터스",
+  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XVl9peGFjY1gzMC1mNnBTN1FPdHM2bV93SnNPR094S2dCRURvajhUb1k0cWxVYXI2UzFsd2VLZktoX2YzQWhYZTlNTWNnTk5sdHlDSA?oc=5",
+  "source": "AI 매터스",
+  "published": "2026-10-13T00:44:19+00:00",
+  "index": 5,
+  "relevance": 7,
+  "category": "기술",
+  "summary": "에이아이웍스가 AI 기반 돌봄·에이전트 검증 솔루션을 국제 행사에서 소개하며 기술 수출 시도. AI 돌봄 로봇/에이전트 기술의 국내 개발 및 글로벌 경쟁력 증명.",
+  "korea_gap": "AI 돌봄 기술은 일본·북미에서 이미 상용화 단계이나, 한국은 아직 기술 검증 및 솔루션 개발 초기 단계."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "[에이지테크] 초고령사회 新 성장동력…매경헬스, AI가 바꿀 소비 지형 조망 - 매경헬스",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1Z3pKQmFaSTlNLTZnTFU0bDlYaW1HOG1CdnpoRzRpak04alNFNllEa3JuWmhFTW03S2pqN0wyRUp4UmplUjVCZ2ZHNEsxUElrSVBqb21LOEJrTHEyOXhBbVNvak5wc2VSc0d1YQ?oc=5",
+  "source": "매경헬스",
+  "published": "2026-10-14T00:42:56+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "시장데이터",
+  "summary": "초고령사회 진입에 따른 에이지테크 산업의 성장 가능성과 AI 기술이 시니어 소비 시장에 미칠 영향을 조망한 기사. 시장 트렌드 분석 수준이나 구체적 비즈니스 모델이나 데이터는 제한적.",
+  "korea_gap": "AI 기반 시니어 솔루션은 국내에서도 단편적으로 등장하고 있으나, 체계적인 에이지테크 생태계는 미성숙 상태."
+ }
+]
