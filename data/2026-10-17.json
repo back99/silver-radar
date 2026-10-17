@@ -1,0 +1,28 @@
+[
+ {
+  "region": "japan",
+  "query": "介護 DX 新規",
+  "title": "NEUSOFT Japan、Neucare Health Technology、学研ココファンの3社、介護DX・人材育成で戦略的パートナーシップを締結 - Infoseek",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9abmtpRjFqeFpQRGpqdmJuQ0MyLVpRZzUwZVBwTXhZV1BiY1FkeEdtaW96a2hCdmJEQ0Y2UThtVUYzcllWc25XNDd6cUpEQ3d4cXNfN3hGVjBKWTVhZDhIZHZqQS1qdTJvMmFwb3YyVGxPQQ?oc=5",
+  "source": "Infoseek",
+  "published": "2026-10-16T14:10:00+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "일본의 IT기업 NEUSOFT, 요양서비스 플랫폼 Neucare Health Technology, 교육출판사 학연(Gakken) 계열 보육사업사 ココファン이 전략적 파트너십을 체결하여 요양 DX와 인재육성을 통합 추진 중이다. 특히 디지털 기술을 활용한 요양 현장의 업무 효율화와 동시에 종사자 역량 강화 생태계를 구축하려는 크로스 인더스트리 협력 모델이 특징이다.",
+  "korea_gap": "한국은 요양 DX와 인재육성이 분절적으로 추진 중이며, 대형 기업 간 요양 특화 통합 파트너십 사례가 거의 없어 시장 기회 존재."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "AI가 바꾸는 시니어의 삶…에이지테크 주목 - 매일경제 마켓",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZbmtyN0ZkOUxUT2Vic1NhSS1zZXhQZ1VXRm1qbXA0dGFhanpfY2p2cGVUQUtnaFBmcmtnd05PMkdRWDlKSkhPMmlVelJHc0phdXc?oc=5",
+  "source": "매일경제 마켓",
+  "published": "2026-10-16T07:56:11+00:00",
+  "index": 0,
+  "relevance": 7,
+  "category": "기술",
+  "summary": "AI 기술을 활용한 에이지테크(AgeTech)가 시니어 삶의 질 개선에 주목받고 있다. 헬스케어, 돌봄, 일상생활 지원 등 다양한 영역에서 AI 솔루션이 적용되는 추세를 보도하고 있다.",
+  "korea_gap": "AI 챗봇, 건강관리 앱 등 단편적 도입은 있으나 시니어 특화 통합 AI 플랫폼은 미발달 상태"
+ }
+]
