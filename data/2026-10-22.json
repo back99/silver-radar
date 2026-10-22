@@ -1,0 +1,80 @@
+[
+ {
+  "region": "korea",
+  "query": "고령자 신규 서비스",
+  "title": "\"실버타운 대신 살던 집서 돌봄\"…삼성물산, 시니어 주거사업 확대 - 한국경제",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0NDg0VHIwTG1zb0dCejV2TG5rYnhFNU1FVEE4eF9HSU80M1ZKR1BDT2RTUVVwcXcwR0oyX2ljRDFGY0VEelRNRjZQSGN1M0ctVHNSdTdvME9tUQ?oc=5",
+  "source": "한국경제",
+  "published": "2026-10-21T23:46:11+00:00",
+  "index": 4,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "삼성물산이 'aging in place' 개념으로 고령층이 기존 주거지에서 돌봄을 받을 수 있는 시니어 주거사업을 확대하고 있다. 실버타운 중심에서 재택돌봄 기반 모델로의 전환이 나타난다.",
+  "korea_gap": "한국에서도 요양시설 중심이 주류이며, 재택 기반 통합돌봄은 초기 단계 - 북미·유럽의 성숙 모델과 차이 존재"
+ },
+ {
+  "region": "north_america",
+  "query": "eldercare app launch",
+  "title": "Homage Launches Esteem AI to Meet Surging Eldercare Demand Across Asia - PR Newswire",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcTY5emUtdVpOR3c5Y1BucU5ueTJIdWtFb2NKam16aG90a2l3R0VqVHE3N3ZsYWgzY2pJV0kzQkJ4MTBqYkprbTI5VUR1QWh2Z2tIRm1DS0FHUGRlLWZRalVWR3hnM1ZVTFgtWU1VRkgyRXF3RHBDVWJFSVNnakcyX3pFbHkxMnRZc1U0MVpqeHNPblg0WFg1M3c5RTVqZVFWMm1TMTRjQTBrT3pKUXpiRlI0bHVjRnV5ZEhXWWZtOGZjcFh3VjFjem5tMA?oc=5",
+  "source": "PR Newswire",
+  "published": "2026-10-21T01:00:00+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "Homage가 아시아 지역 요양보호 수요 증가에 대응하기 위해 Esteem AI를 출시했으며, 이는 AI 기반 노인돌봄 솔루션을 통해 의료진-환자 간 효율성을 높이는 새로운 비즈니스 모델을 제시한다. 북미와 아시아에서 검증된 AI 돌봄 플랫폼이 한국 시장 진출을 고려할 수 있는 유망한 기술 기반 비즈니스 기회다.",
+  "korea_gap": "한국에는 Homage 같은 통합형 AI 기반 원격돌봄 플랫폼이 아직 본격화되지 않았으며, 대부분 산발적 돌봄앱 수준으로 운영 중."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "AI·에이지테크로 진화하는 ‘재활·돌봄·복지산업’ 한자리에 - 재활뉴스",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MMjJrTFZvc24wUEUxYXNiRzVacEdmOHM2ZXBWMzFKTDVneEpKNzlzNEpPR0lQM0owaXNfY2YwcWhjWVljVkhNSmh3LXg5anY1WjdjMUk3Z3lwOWJtRm1YRW9qVV9XWnNRaUZ3?oc=5",
+  "source": "재활뉴스",
+  "published": "2026-10-21T20:30:00+00:00",
+  "index": 6,
+  "relevance": 7,
+  "category": "기술",
+  "summary": "AI와 에이지테크 기술이 재활·돌봄·복지산업에 적용되는 추세를 다루고 있다. 디지털 변환을 통한 산업 고도화가 진행 중이다.",
+  "korea_gap": "한국의 에이지테크 도입은 초기 단계이며, 정부/대기업 주도 프로젝트 중심 - 민간 스타트업 중심의 혁신 생태계는 미성숙"
+ },
+ {
+  "region": "korea",
+  "query": "시니어 돌봄 앱",
+  "title": "삼성생명, 병원 동행부터 시니어 돌봄까지…웅진프리드라이프와 건강케어 확대 - 이코노미사이언스",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LVU9BaG9RMWFra1E0bGMwSjF4Q05CZzl3VU50NnNQZlktZG5YWG51Z2wwcXllTnh1elBxODd1eWU1a0hvLTVtLXFyUEZNV1VhQklEVVYzODVKWF9uUFhzb0dMazlxTm1LczhwX1NmMA?oc=5",
+  "source": "이코노미사이언스",
+  "published": "2026-10-21T02:28:18+00:00",
+  "index": 7,
+  "relevance": 7,
+  "category": "투자/M&A",
+  "summary": "삼성생명이 웅진프리드라이프와 협력해 병원 동행부터 재택 건강케어까지 통합 서비스를 확대하고 있다. 대형 기업의 시니어 헬스케어 통합화 전략이 가시화되고 있다.",
+  "korea_gap": "한국에서는 생명보험사와 돌봄 기업의 협력 사례가 증가 중이나, 해외 선진 사례에 비해 서비스 스펙트럼이 좁음"
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "에이지테크로 진화하는 ‘돌봄·복지산업’ 한자리에… [건강한겨레] - 한겨레",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96WkVWYktBZHQ5Q05MUUNIRDlvdDkzX3Q2R3ZxeDBVcU5UMmc5YWFMTkhJcW1reW9wOTJYVWlVek9ONGJOZXVPZ1R1ZWhDMWtTRk93RnRJMTI3SE1oUnpYeTRtaGtTNmxHYmFNaWdWTQ?oc=5",
+  "source": "한겨레",
+  "published": "2026-10-20T23:42:00+00:00",
+  "index": 9,
+  "relevance": 6,
+  "category": "기술",
+  "summary": "에이지테크 기술이 돌봄과 복지산업의 혁신을 주도하고 있다는 관점의 기사다. 디지털 기반 시니어 케어의 확산 추세를 조명한다.",
+  "korea_gap": "에이지테크 도입은 진행 중이나 아직 일부 대기업·정부 사업 중심 - 스타트업 생태계 성숙도 미흡"
+ },
+ {
+  "region": "korea",
+  "query": "시니어 돌봄 앱",
+  "title": "삼성생명, 웅진프리드라이프와 건강케어 협력 - PRESS9",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wMDZ2SEwyd25yUzNrMUFCVUdldGg3NGJwMmIwc1pqWVNIUXoyR2I0dWhJM2JyMkxwb2FsMWtWVTNaTXU2bkw0cFhvck5feGt2SGw5VDRDb0xuTV9NWkxUX2Q2Ym4?oc=5",
+  "source": "PRESS9",
+  "published": "2026-10-21T00:10:00+00:00",
+  "index": 8,
+  "relevance": 5,
+  "category": "투자/M&A",
+  "summary": "삼성생명과 웅진프리드라이프의 건강케어 협력 소식이다. 기존 소식의 중복 보도다.",
+  "korea_gap": "한국 시장 기업 협력 사례이므로 해외 갭 평가 불필요"
+ }
+]
