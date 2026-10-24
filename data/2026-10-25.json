@@ -1,0 +1,28 @@
+[
+ {
+  "region": "korea",
+  "query": "고령자 신규 서비스",
+  "title": "여가에서 돌봄까지…삼성생명이 주목한 시니어 주거의 변화 - 데일리안",
+  "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNM1dlWGRoUWVvMllpMWpHa2VzVHc2aFo0LVVwMjJKSGZabXRGbjRqckdTNVhENXAzTF9RNlZ5d1lyNVUwRXAxM09kdWhCQVNRZFR6eXFTRmVoQnpwVHlyaVFmdVFQZXd2VWVoY1J0UWZ0aUNjS2Q2blQ0S1ZxbDA5d1U2TVN6X2tFOUdiT3JST2dadHNhdFN4LTNlQ21Sdmh5a2ppVHN4V2l5WGEtUW9kVTdlMzRpRGxkbE5HR1NMR2l1LW1UZU1EcHBBRUNqbzhkSk9kcnBjR05ycGxOcG0xRUdVWWR1R3FoQ0hfc0swM3NuVzZIMGV6TUdhdktMWTJhbmh4MFBDbzYwVWxjZ0U1bFJiT3JLOWxnR25GRi1pODBPdw?oc=5",
+  "source": "데일리안",
+  "published": "2026-10-23T22:06:00+00:00",
+  "index": 2,
+  "relevance": 8,
+  "category": "시장데이터",
+  "summary": "삼성생명이 시니어 주거 트렌드 변화를 분석하여 여가와 돌봄 통합형 주거 서비스의 수요 증가를 지적했다. 대형 금융사의 시니어 주택·케어 사업 전략 전환을 반영하는 시장 신호다.",
+  "korea_gap": "시니어 커뮤니티 거주(Senior Living) 모델 자체는 국내에 존재하나, 여가·돌봄·건강관리 3요소 통합 운영 사례는 아직 초기 단계로 보임. 일본·북미 프리미엄 모델 벤치마킹 기회 있음."
+ },
+ {
+  "region": "korea",
+  "query": "시니어 헬스케어 AI 스타트업",
+  "title": "픽셀로, 2026 홈케어·재활·복지전시회서 눈·기초건강 통합 키오스크 'AI 내눈 바이탈 플러스 키오스크' 선보여… \"한곳에서 시니어 건강을 살핀다\" - 에이빙",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EZFEtLWw2SllyN09GQWZ5bzNhWHNNamF4VmlCbjdtSE04S2pvemhEU1ZEUjE3SkdfWXZ6R3ZqdDhsMU1LNUJJSEQ1aXFEQ1l2Y2dLNlhDM3J6SUR1X0lUMHMxOEsyLW8?oc=5",
+  "source": "에이빙",
+  "published": "2026-10-24T08:39:46+00:00",
+  "index": 0,
+  "relevance": 7,
+  "category": "기술",
+  "summary": "픽셀로가 AI 기반 통합 키오스크로 눈 건강과 기초 바이탈을 한 곳에서 측정하는 솔루션을 선보였다. 시니어 대상 예방적 건강관리를 위한 스마트 헬스케어 기기로 포지셔닝 중이다.",
+  "korea_gap": "유사한 단일 항목 측정 키오스크는 존재하나, 안과검진과 바이탈 통합 측정 키오스크 모델은 국내 시니어 공간에서 아직 보편화되지 않은 것으로 보임."
+ }
+]
