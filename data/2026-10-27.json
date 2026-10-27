@@ -1,0 +1,54 @@
+[
+ {
+  "region": "north_america",
+  "query": "digital health infrastructure seed",
+  "title": "BioStack Raises $9.5 Million Seed Funding to Build a Cross-Border Healthcare Data Network - https://ascendants.in/",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0RST2hjT0tia1hEOEtsS0lwS2dfN0tHWEpVUExrMU5HRlpNcmhhbE5pSVNaUnZhUGx2ZkVNaS1NNy04ZlE3WjdaR1ZwYk1JdXM0bm5JbEhzX1JYRXBjb3hVRE1sa1kyODg1YXE4X0FPSlJ3RmJncUN5LWxwcEEtU0VFWFlHc3pJcEtIVjk4c292NDVPWm5mbkdsaXBGVEpNaFM4c0RR?oc=5",
+  "source": "https://ascendants.in/",
+  "published": "2026-10-26T13:17:28+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "투자/M&A",
+  "summary": "BioStack이 950만 달러 시드펀딩을 유치하여 국경을 넘는 헬스케어 데이터 네트워크를 구축하고 있다. 시니어 인구의 의료 데이터를 통합·관리하는 플랫폼 모델로, 북미 헬스케어 분산화 추세를 반영한 새로운 B2B 비즈니스다.",
+  "korea_gap": "한국은 의료 데이터 규제(개인정보보호법)가 강해 국경 간 헬스케어 데이터 네트워크는 아직 미성숙 단계."
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "에이지테크 컨소시엄, 디지털 의료제품 글로벌 진출 지원 - 라포르시안",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tbmxmQUdpb0E3MEVqN2pFUENYdURiMkNXMWFMenRhSUdUUHNJNy1XNlNaWkRJREU5NGxxeWxDUXdzLTAyZWYyREstTHh3NTl2SDZxY3llbVRZbkFQNjVRLVNxZC1GYVhPY1VLag?oc=5",
+  "source": "라포르시안",
+  "published": "2026-10-26T05:19:54+00:00",
+  "index": 1,
+  "relevance": 6,
+  "category": "투자/M&A",
+  "summary": "에이지테크 컨소시엄이 디지털 의료제품의 글로벌 진출을 지원하는 프로그램을 운영 중이다. 한국 에이지테크 기업들의 국제 시장 진출을 돕는 인프라 구축이 진행 중이다.",
+  "korea_gap": "에이지테크 컨소시엄 중심의 글로벌 진출 지원 체계는 한국 특화 모델이나, 실질적 성공 사례 부족"
+ },
+ {
+  "region": "japan",
+  "query": "ヘルスケア AI スタートアップ",
+  "title": "「日本の医療を輸出」“医療AI先進国” に挑む日本発のスタートアップの挑戦 - DG Lab Haus",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJZUtWUVFMbzR2N1oxRWF1WllIbzlPcHFoeS1nRnVDTTJLYWxSV1ExLVBiT1ZEWmRvWjd0MDhydWN3SFJRamFWcVFhWnJNU0NZc25NLU5R0gFbQVVfeXFMUGtpbzI4VHR5ZGpBcldRT3pOcmRqeVc0cWNkQWFqSjJLRDdfaGUwNWMzcDRPM2ZiUkU4WVlLN1NRYjAyTHBnVm1nNjF6RXJjLTVKSkxScThIMDF3TQ?oc=5",
+  "source": "DG Lab Haus",
+  "published": "2026-10-26T01:17:08+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "기술",
+  "summary": "일본 스타트업이 의료 AI 기술을 해외 수출하며 '의료 AI 선진국'으로 도약하려는 움직임. 고령화 사회 대응 의료 기술의 국제 경쟁력 강화 사례.",
+  "korea_gap": "한국도 의료 AI 개발사 다수 있으나, 실버 의료 특화 AI 수출 전략은 미흡한 상태"
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "에이지테크 제품·서비스 '시민이 직업 체험하고 알린다' - 전자신문",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Pckc0YzFZR3FwajBySjNidTI3R01GWkVaUzJ6QjF4WDJ0UE5vX2RJYl9KM2EtMVJuQ3VNRUFwRDFON25SSnZheHZ2LUp5Zw?oc=5",
+  "source": "전자신문",
+  "published": "2026-10-26T01:49:25+00:00",
+  "index": 4,
+  "relevance": 5,
+  "category": "비즈니스모델",
+  "summary": "에이지테크 제품·서비스를 시민이 직접 체험하고 홍보하는 참여형 마케팅 모델이 주목받고 있다. 사용자 생성 콘텐츠(UGC) 기반의 신뢰도 높은 홍보 채널 구축이 특징이다.",
+  "korea_gap": "시니어 UGC 기반 마케팅은 새로운 시도이나, 일본·북미의 시니어 인플루언서 생태계 대비 초기 단계"
+ }
+]
