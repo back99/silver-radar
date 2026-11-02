@@ -1,0 +1,28 @@
+[
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "규제에 막힌 에이지테크 “신기술 포기, 구형에 맞춰야” - 이투데이",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00eFRIRjQ4UE5nQjQtZ0lUX2t5ZDZtMGMxaThtOXNoZ1BPQ0x6LUd1WGZWbkFXS0YxMmxEREt4Rm1hbmhIT1RlNWcwUVRlTDNZVVRBc0ZwTmpiQQ?oc=5",
+  "source": "이투데이",
+  "published": "2026-11-01T22:00:00+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "정책/규제",
+  "summary": "에이지테크 기업들이 한국의 과도한 규제로 인해 신기술 개발을 포기하고 기존 구형 기술에 맞춰야 하는 상황에 직면해 있다. 규제 프레임워크의 미정비가 산업 혁신을 저해하는 주요 장애물로 지적되고 있다.",
+  "korea_gap": "규제 갭이 명확히 존재하며, 이는 역으로 규제 개선 시 미충족 시장 기회가 있음을 시사"
+ },
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "\"에이지테크 생태계 확장\" KB라이프 '에이지테크랩 2026 컨퍼런스' 개최 - catchnews.kr",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGcE9hOVM0dC1ZVHRsWFFTdFJTMW41Z25zd2tEOV9sRHdxck9YNHRwX0NvUkZlVlJTSU9acno2NVN2dnBsbmNldHF2RGhhakJ6VjE3NlJ6LUZnSHcyOXNERGFpTXdUV1lSLXZB?oc=5",
+  "source": "catchnews.kr",
+  "published": "2026-11-01T17:22:46+00:00",
+  "index": 1,
+  "relevance": 5,
+  "category": "기타",
+  "summary": "KB라이프가 에이지테크 생태계 확장을 위해 '에이지테크랩 2026 컨퍼런스'를 개최한다. 산업 내 네트워킹과 협력 기회를 제공하는 행사로 진행된다.",
+  "korea_gap": "에이지테크 관심 증가로 대형 금융사까지 참여 중이나, 구체적 비즈니스 모델 검증 데이터 부족"
+ }
+]
