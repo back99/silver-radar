@@ -1,0 +1,54 @@
+[
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "부산정보산업진흥원 \"부산–후쿠오카 에이지테크 협력의 닻 올렸다\" - 국제뉴스",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xV1dVQzVWSFdZYXJvcGtpeDRtTEswTlZtWVh5TEdTZTZFVDhrT25pREdvallWSG5nYjZkOXRpNGp6a1hSTlQzbGlmODlwcUJ1d0RrcE11X3J6ck1ZdENGaXBXRzZYS1dHX1Fnd2VR?oc=5",
+  "source": "국제뉴스",
+  "published": "2026-11-05T00:59:18+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "부산과 후쿠오카 간 에이지테크 협력 체계 구축으로 일본의 검증된 시니어 기술·서비스 모델 도입 통로 마련. 해외 선진 모델의 한국 적용 가능성을 높일 수 있는 국제 협력 플랫폼.",
+  "korea_gap": "일본 에이지테크 모델의 한국 진출 및 현지화 기회 포인트로 주목할 가치 있음."
+ },
+ {
+  "region": "japan",
+  "query": "ヘルスケア AI スタートアップ",
+  "title": "STATION Ai、名古屋大学およびRhelixaと東海地域のヘルスケア分野で連携 - PR TIMES",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mREJqbGR3cW5QeXBvREZlUjhtdDdXYmI5X09YSmxsR1Iycm9WX1puVXFuTDFmYWFEWmNKck9pYXJZc1NZQ3NqLUVBZExnb1U0Z0ctSlhpc0I5Z2FqanNZSzV2X0FTWTNnNlE?oc=5",
+  "source": "PR TIMES",
+  "published": "2026-11-04T02:00:01+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "비즈니스모델",
+  "summary": "STATION AI가 명고야대학, Rhelixa와 협력하여 도카이 지역 헬스케어 분야의 지역 과제 해결을 추진 중이다. 대학·AI기업·지역협력체계를 통한 헬스케어 생태계 구축 모델을 실험하고 있다.",
+  "korea_gap": "대학-기업-지역정부 헬스케어 협력 모델은 한국에서도 일부 시도되고 있으나, AI 기반의 구체적인 사업화 단계 사례는 제한적"
+ },
+ {
+  "region": "europe",
+  "query": "digital health startup Europe seed",
+  "title": "Leipzig-based JawBuddy raises €818k to help people reduce jaw pain, bruxism, and TMJ-related tension - EU-Startups",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2UyenF3MFcxZlNHNDFvcGlpVHNJaG9mSUdURGNEZGdJX2U1R1RSZHVYdzBUS3Mxbm5BWENzb0p1dHBnU0NCdHdtRVd5bExUTUpieFltUTNkLWEyekhZSk4xNzJOMzR6Qk1hMHpfZjJiMHg2MzJaUmJyc0luOWRtVVdaR0lYQ3MtRFJrblVnUEQ3NmZOMzlFSnRDbUNtTGFRQ3ozdk5DRldJWHRFT2U2dnRySm9mRlZRQUlHOXlvN0xkODRrUjkyRUNzdDhteE9K?oc=5",
+  "source": "EU-Startups",
+  "published": "2026-11-04T07:24:52+00:00",
+  "index": 2,
+  "relevance": 6,
+  "category": "기술",
+  "summary": "독일 스타트업 JawBuddy가 턱 통증, 이갈이, TMJ 관련 긴장 완화를 위한 솔루션으로 81.8만 유로를 투자유치했다. 중장년층 및 시니어의 만성 통증 관리 시장을 겨냥한 의료기술이다.",
+  "korea_gap": "한국 시장에서 유사한 TMJ/턱 통증 전문 웨어러블 솔루션은 발견 어려움, 확인 필요"
+ },
+ {
+  "region": "japan",
+  "query": "ヘルスケア AI スタートアップ",
+  "title": "「この指とまれ！」Rhelixaと名古屋大学とSTATION Aiのコラボで実現、東海エリアのヘルスケア領域における地域課題解決と経済的自立を実現する体制を構築 - PR TIMES",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Hd2M4REl1UVBVSFBXdmY4TTZzdWotY1J6QXFNVXI5OTRVUVViTlpOaDhHN1V5SldydzhGSWRGbllDdERib3JVaHFpbjVJbTZlLWRnWEI0eFpLQ2NCTk53dzFyWVFITmVoc2c?oc=5",
+  "source": "PR TIMES",
+  "published": "2026-11-04T02:00:01+00:00",
+  "index": 1,
+  "relevance": 5,
+  "category": "비즈니스모델",
+  "summary": "Rhelixa와 명고야대학의 협력으로 '이 손가락에 모여라' 프로젝트를 통해 동해 지역의 헬스케어 문제 해결과 경제적 자립을 동시 추구한다. 지역 중심의 포용적 헬스케어 생태계 구축을 목표로 한다.",
+  "korea_gap": "지역사회 기반 포용적 헬스케어 모델은 새로운 접근이나, 현재 기사만으로는 구체적 비즈니스 모델의 차별성 파악 어려움"
+ }
+]
