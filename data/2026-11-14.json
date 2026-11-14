@@ -1,0 +1,41 @@
+[
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "老後の一人暮らし、孤立死が心配……見守りサービスの費用と、地域でできる備え - ライブドアニュース",
+  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6ZnlhZWxtX0h6aTBfellWSG5VdFBUcTN5VGJBMmJRdU9uWFR3YUM0RFZJRzl4U3ZGd09CTnFsLVR1UWNfWnVVcmd1TDBUUDQ4T3puZ2h1bEJaSmxVM2Fj?oc=5",
+  "source": "ライブドアニュース",
+  "published": "2026-11-13T12:40:01+00:00",
+  "index": 0,
+  "relevance": 7,
+  "category": "비즈니스모델",
+  "summary": "일본에서 고독사 위험이 있는 독거 노인을 대상으로 한 보안(見守り) 서비스의 비용 구조와 시장 현황을 다룬 기사로, 민간 서비스의 가격대와 지역사회 기반 예방 모델을 비교 분석하고 있다. 고독사 예방이라는 신규 시장 수요에 대한 다양한 비즈니스 솔루션(원격 모니터링, 방문 서비스, 커뮤니티 기반 케어)이 정리되어 있다.",
+  "korea_gap": "한국은 고독사 예방 서비스 시장이 초기 단계이며, 민간 보안 서비스 모델이 일본 수준으로 체계화되지 않았음."
+ },
+ {
+  "region": "japan",
+  "query": "見守りサービス",
+  "title": "老後の一人暮らし、孤立死が心配……見守りサービスの費用と、地域でできる備え - Infoseek",
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtbHUyMHE5eVV4NU1OQVE4c2gwc3ZZcnNFa0VyMXZUc2szeGhEeGxnZE5fSEY4TWtfYm5uM1NrS0tWZmJPa1RZRVhTaXJWNWFkZ1dCNnFERTZweEhzTHlBSA?oc=5",
+  "source": "Infoseek",
+  "published": "2026-11-13T12:40:00+00:00",
+  "index": 1,
+  "relevance": 6,
+  "category": "기타",
+  "summary": "Infoseek 배포 기사로 [0]과 동일한 내용의 중복 보도이다.",
+  "korea_gap": "중복 기사로 추가 인사이트 없음."
+ },
+ {
+  "region": "europe",
+  "query": "elderly care technology launch",
+  "title": "Shanghai explores tech-enabled elderly care over Silver Tech Industry Week - China Daily",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QeEJCc0lhSVE0LU1nLWQzOWdRalhWT3NUeEgwYkxNYXNtRTdSM1lpN3BGSFRkd1AyZ0hCRlZieDRjVlgyeW1Ec3RKdU1qbXN4Nm1ieHVMRmpoTVR6WEl6clFsMlRWSDhVNEpxdlJET29VSldCV1pvOUZHNVRkUQ?oc=5",
+  "source": "China Daily",
+  "published": "2026-11-13T08:06:38+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "기술",
+  "summary": "상하이가 '실버 테크 산업 위크'를 통해 기술 기반 노인 돌봄 서비스 확대를 추진하고 있으며, 디지털 솔루션을 활용한 케어 모델들이 전시·논의되고 있다. 중국의 빠른 고령화에 대응하는 테크 기업들의 사업화 움직임이 활발해지는 중이다.",
+  "korea_gap": "한국도 요양보호사 플랫폼, AI 돌봄 기술 등이 있으나 국가 차원의 통합 산업 전시/협력 생태계 구축은 미흡한 상태."
+ }
+]
