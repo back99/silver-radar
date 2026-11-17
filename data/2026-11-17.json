@@ -1,0 +1,28 @@
+[
+ {
+  "region": "korea",
+  "query": "에이지테크",
+  "title": "초고령사회 돌봄의 재설계, 에이지테크가 열어가는 새로운 경로 - 뉴스N연합",
+  "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yY2RySWtLczBwZW1qRE1lNDV3RWExRkEtSGJBeVpEeDhld1BsaHJPRlhMUGhYNTFULTlYLWxILXUwWDRuWDFQdG93?oc=5",
+  "source": "뉴스N연합",
+  "published": "2026-11-16T15:59:38+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "기술",
+  "summary": "초고령사회 대응을 위해 에이지테크(노인맞춤형 기술)가 돌봄 서비스의 새로운 모델로 주목받고 있다. 기존 인력 중심 돌봄에서 기술 기반 솔루션으로의 전환이 시장의 주요 과제로 부상했다.",
+  "korea_gap": "한국에서 에이지테크는 초기 단계이며, 일본·북미의 성숙한 사례(원격모니터링, AI 돌봄보조, 로봇 등)와 비교해 상용화된 통합 플랫폼이 부족한 상태"
+ },
+ {
+  "region": "north_america",
+  "query": "digital health infrastructure seed",
+  "title": "13 startups share $300,000 to develop technology in healthcare, mobility, safety and more - Crain's Detroit",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTUdFeE90MzVTb0pJV2VmWEljdm9nZmFYTUk3a09JSi14YmRjT1N4cGRLd2R1MkhTRmVTcjNXTTFGOVZ6bWRZQzA4bW1hQ2RBT2JmbjhqVjJJeXZsVjBKSTFzUHVDcDMxSkNvdjRJSjMtcERDR1Mtd3MxV3NLRjQza0hnc0o3dWstdjZhck9Ya3k?oc=5",
+  "source": "Crain's Detroit",
+  "published": "2026-11-16T18:19:00+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "투자/M&A",
+  "summary": "북미 지역 13개 스타트업이 헬스케어, 모빌리티, 안전 등 분야에서 기술 개발을 위해 총 30만 달러의 펀딩을 확보했다. 시니어 관련 구체적인 비즈니스 모델보다는 광범위한 기술 스타트업 지원 소식으로, 카테고리 내용이 명확하지 않다.",
+  "korea_gap": "확인 필요 - 기사 상세 내용 검토 필요"
+ }
+]
