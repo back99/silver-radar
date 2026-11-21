@@ -1,0 +1,54 @@
+[
+ {
+  "region": "korea",
+  "query": "시니어 스타트업 투자",
+  "title": "[스타트업리뷰] 시니어의 눈높이에 맞춘 HTS 플랫폼, 메이크델타 “당신만의 주식코치, 당주” - 동아일보",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRN0ptQXhlcFZxSDcxMlR4dWtJZjRFTjFGdGpTSUxBSGNidjdTZk4ybmJMeVBiM19ySlg5QS1XeHRJVzR4TDN6SHBsM2xyT2FKWnlSTFNiV0RCWlhySjdlV2cxMi1JU2VINjA40gFmQVVfeXFMTUc3OXBtSmZwODZGS0V3YkprdDNiSGxSbUtfQi0wT3FnMnF1dV81TTkxY3V1SUhKT0JEenFCVTJucEZUdHJ1M3NEWloxblFPcGZLU3QzcS1EelNJcEY0TWlDYk1yX1l3?oc=5",
+  "source": "동아일보",
+  "published": "2026-11-20T12:48:56+00:00",
+  "index": 0,
+  "relevance": 8,
+  "category": "비즈니스모델",
+  "summary": "시니어 사용자 맞춤형 HTS(주식투자) 플랫폼 '당주'가 복잡한 주식거래 인터페이스를 단순화하여 고령층의 투자 진입장벽을 낮추고 있다. 미국의 로보어드바이저와 유사하지만 UI/UX를 고령층 특성에 최적화한 시니어 핀테크 모델이다.",
+  "korea_gap": "한국에서 시니어 맞춤형 주식투자 플랫폼은 초기 단계이며, 고령층 맞춤형 핀테크 서비스 경쟁력 있는 모델 사례 찾기 어려움."
+ },
+ {
+  "region": "europe",
+  "query": "elderly care technology launch",
+  "title": "Concierge Medicine Market Size to Reach USD 46.59 Billion - GlobeNewswire",
+  "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNX3VPLU1sZWV5bV9MWWlqYWhaeUdlOEREX2Q1bmNJUElTNHE4Q0I0QmpFNzhGR1JjQjRoR2FyN3BnY0Mwc3JCdDBZT2xPZzRoR0taZXVDQTVpekYzeWxPT19wczdqUjREMHE4VHM5TEQ0eDZaREZhejl1S2pVc2FYMHVnYV9BVWVSaG9yZGpHazJGVi02VWVweUlJQWpEb1ozWEZfZHlUUEdWR09jY1A2RkJZZzJnb0Q0VEJHSHByXzA3cHZTWE8yUmNTeVRPVGZqQmdXeGdfRm01VzdFMGhERFJMdFg4Q2xONU53YWs4YmpJUUFLd2NVZmMyZjg5VjcxMGdSTndvQWxDelhZN2JqMFhhd1B1VThLamV4MkJ0RXZKSzZUSVdiVnlhbzBtSmVQRmc?oc=5",
+  "source": "GlobeNewswire",
+  "published": "2026-11-20T15:30:00+00:00",
+  "index": 1,
+  "relevance": 8,
+  "category": "시장데이터",
+  "summary": "콘시어지 의료(Concierge Medicine) 시장이 2026년 USD 46.59억 규모로 성장할 것으로 예측되며, 프리미엄 시니어 의료 서비스의 고성장 세그먼트로 주목받고 있다. 맞춤형 고부가가치 의료 모델의 시장 가능성을 입증한다.",
+  "korea_gap": "한국에서 콘시어지 의료는 극소수 고급 병원에만 존재하며, 시니어 대상 비즈니스 모델로의 체계화가 거의 없는 상태."
+ },
+ {
+  "region": "north_america",
+  "query": "eldercare app launch",
+  "title": "Sporaa, Newly Launched Health-Tech Start-Up For Elderly Care Across Borders - Nigeria Communications Week",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUZjdDgzYUtpSEw3eUFJZGhRTVhISUpZXzR6ejN6UVJUMWF3NWJrNUt4dHRhVDJHNHNSWE15UXlHRnRoNmIyOTA2dEN4OF8xZ1BNZ2VXeGJsa0h3WVlHblcydE5TN0N1MUY4c1FEbGFzdElrX1VXQm1jclRmUDFkdGdDTU02a2VLMV9ETF9naUlxTkhMeTI2X2NuNDA0eTBSWmVHSVloQ2pLZGNsbzByaktnM1dCV3NoNUlESW0wMEhwcmpaVGNWc3lR?oc=5",
+  "source": "Nigeria Communications Week",
+  "published": "2026-11-20T23:01:28+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "비즈니스모델",
+  "summary": "Sporaa는 국경을 넘나드는 노인 돌봄 헬스테크 스타트업으로, 아프리카(나이지리아)를 중심으로 원격·모바일 기반 케어 플랫폼을 제공한다. 국제 이주 가족의 보호자-피보호자 간 거리 문제를 기술로 해결하는 니즈 기반 모델이다.",
+  "korea_gap": "한국에서는 재외동포·해외 거주 자녀를 둔 노인층을 타겟한 국제 거리 돌봄 플랫폼이 아직 활성화되지 않은 상태로 보임."
+ },
+ {
+  "region": "europe",
+  "query": "elderly care technology launch",
+  "title": "Sporaa, Newly Launched Health-Tech Start-Up For Elderly Care Across Borders - Nigeria Communications Week",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUZjdDgzYUtpSEw3eUFJZGhRTVhISUpZXzR6ejN6UVJUMWF3NWJrNUt4dHRhVDJHNHNSWE15UXlHRnRoNmIyOTA2dEN4OF8xZ1BNZ2VXeGJsa0h3WVlHblcydE5TN0N1MUY4c1FEbGFzdElrX1VXQm1jclRmUDFkdGdDTU02a2VLMV9ETF9naUlxTkhMeTI2X2NuNDA0eTBSWmVHSVloQ2pLZGNsbzByaktnM1dCV3NoNUlESW0wMEhwcmpaVGNWc3lR?oc=5",
+  "source": "Nigeria Communications Week",
+  "published": "2026-11-20T23:01:28+00:00",
+  "index": 0,
+  "relevance": 6,
+  "category": "비즈니스모델",
+  "summary": "Sporaa는 국경을 넘어 노인 돌봄 서비스를 제공하는 헬스테크 스타트업으로, 다국가 연계 원격 케어 모델을 선보였다. 아프리카 지역을 중심으로 의료 접근성이 낮은 지역의 시니어를 대상으로 확장 중이다.",
+  "korea_gap": "한국은 노인돌봄 서비스가 주로 국내 중심이며, 국경 간 연계 케어 플랫폼은 미성숙 단계로 보임."
+ }
+]
